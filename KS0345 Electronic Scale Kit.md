@@ -1,0 +1,4511 @@
+**Electronic Scale Kit**
+
+![正面图](media/564ed57fcbc1f900073d7e586aa2c6b5.png)
+
+# Description：
+
+When it comes to programming, many think it difficult. However, KEYES group
+rolls out an electronic scale kit to cope with this problem.
+
+This is a low-cost, easy-to-build and open source programming kit.
+
+In fact, it integrates a large number sensors and modules. You can absorb the
+basic knowledge of programming like electronics, control logic, computer and
+
+science from practical installation.
+
+In compliance with the tutorial, an electronic scale can be produced by boards,
+slot connection and wiring.
+
+It also has a membrane keypad, a weighing sensor, a DS3231 module and an LCD
+1602 display module Furthermore, the detailed projects will guide you to learn
+the working principle of sensors and modules.
+
+If interested in STEM and code programming, you can customize your
+
+own scale by altering code and adding extra modules.
+
+That sounds entertaining, right? Let’s get started!
+
+1.  **Features：**
+
+2.  Multi-purpose function：key input and control，1602
+    display，weighing，counting，calculating price，alarm clock，temperature and
+    time display
+
+3.  2\. Easy to build：Slot connection and without soldering circuit
+
+4.  3\. Novel style**：**Adopt strong wood board, acrylic board, RGB and LCD 1602
+    modules.
+
+5.  4\. High extension：preserve IIC, UART, SPI ports，and extend other sensors
+    and modules.
+
+5\. Basic programming learning：use C language and code.
+
+# 3. Parameters：
+
+Input Voltage：7-12V
+
+Working Voltage：5V
+
+Working Current：100mA
+
+Maximum consumption power：1.5W
+
+# Kit：
+
+| \# | Picture                                                                                                                                                                             | Model                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | QTY |
+|----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 1  | ![](media/b8160daa2fb2665c9438a45760dbb61f.png)                                                                                                                                     | Keyestudio Main Board                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 1   |
+| 2  | ![](media/d83e1cd8c8b7f48e1dbb8b83bcf9b7c9.png)                                                                                                                                     | 4pcs Wooden Boards                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 1   |
+| 3  | ![](media/5832d2ca6165c90e5b7e7ed81e93a334.png)                                                                                                                                     | 2pcs Acrylic Boards                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 1   |
+| 4  | ![](media/d846155f6aa6e034a1c65acd333d5b85.png)                                                                                                                                     | Keyestudio HX711 Weighing Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 1   |
+| 5  | ![](media/6092f0c40b8ee1bad39c83f1ba4bb221.png)                                                                                                                                     | Micro Weighing Sensor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 1   |
+| 6  | ![矩阵按键](media/8ab1dc5e902cc9871525f6d2b584189b.jpeg)                                                                                                                            |  4\*4 Membrane Keypad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 1   |
+| 7  | ![液晶屏](media/960f7b887fc80426b1a5a4744519275d.jpeg)                                                                                                                              | Keyestudio I2C1602 LCD Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 1   |
+| 8  | ![时钟2](media/0c7c55afdba49099d2ec53f84b95014a.png)                                                                                                                                | Keyestudio DS3231 Clock Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 1   |
+| 9  | ![功放模块](media/751cc83fbf134338a2baecc08331ba58.jpeg)                                                                                                                            |   ![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)![](media/eed004b32218a2e0b30cc1a651c6593c.png)keyestudio Power Amplifier Module | 1   |
+| 10 | ![](media/1a9fff2a791f15800247faf988d42374.png)                                                                                                                                     | Keyestudio Yellow LED Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2   |
+| 11 | ![1(1)(1)](media/b11f31d9cac22f41041f55bac27d98f6.png)                                                                                                                              | 6-slot AA Battery Holder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 1   |
+| 12 | ![](media/688aad44f33e51964fc93c9c9dfbc311.png)                                                                                                                                     | 3-pin Rocket Switch                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 1   |
+| 13 | ![](media/162e2ca2cb0229e07df3e8a8cdf26644.png)                                                                                                                                     | 50g Balance Wight                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 1   |
+| 14 | ![](media/267f31400ad2b2d742ff921214557d07.png)                                                                                                                                     | Dual-pass M3\*8MM Copper Pillar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 8   |
+| 15 | ![](media/71338bc1f531d68fa7747582b8f2b073.png)                                                                                                                                     | Dual-pass M3\*40MM Copper Pillar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 4   |
+| 16 | ![](media/de8991dc2b94e7a9a01e24239cf77500.png)                                                                                                                                     | M3\*6MM Round Head Screws                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 8   |
+| 17 | ![](media/de8991dc2b94e7a9a01e24239cf77500.png)                                                                                                                                     | M3\*8MM Round Head Screws                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 13  |
+| 18 | ![](media/90f262e52991756983f29416b65889de.png)                                                                                                                                     | M3\*10MM Round Head Screws                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3   |
+| 19 | ![](media/ed8729c3ae374fc13c68a4ae94f8d7e5.png)                                                                                                                                     | M3\*6MM Flat Head Screws                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 11  |
+| 20 | ![](media/7f7e44c792771b39a9f213a4ef945cec.png)                                                                                                                                     | M4\*12MM Flat Head Screws                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 5   |
+| 21 | ![](media/f86ce009ad254195288ee3fe6ea584cf.png)                                                                                                                                     | M3 Nickel Plated Nuts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 11  |
+| 22 | ![](media/f353b46e6c2c0597c3268d5aa137fd99.png)                                                                                                                                     | 3.0\*40MM Screwdriver                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 1   |
+| 23 | ![](media/356de597dc93e9c22c1a40ca11698194.png)                                                                                                                                     | AM/BM OD:5.0 L=50cm USB Cable                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 1   |
+| 24 | ![](media/644ce8c0d8adbc54ff7fe0ea84d7008e.png)                                                                                                                                     | 8MM Winding Pipe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 1   |
+| 25 | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\3pin 黑红黄 200mm（1）.png3pin 黑红黄 200mm（1）](media/5326e674d09f6d0b17db62edde8c3f74.png)                     | 3P F-F Dupont Line                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 3   |
+| 26 | ![C:\\Users\\Admin\\Desktop\\1.png1](media/d296e9f87fcc0049b108e89bcf1bea66.png)                                                                                                    | 4P-1P F-F Black/Red/Blue/Green Dupont Line                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 1   |
+| 27 | ![C:\\Users\\Admin\\Desktop\\2.png2](media/eec2a7b81c4840136e607dfe8939434e.png)                                                                                                    | 4P-1P F-F Black/Green/Blue /Red Dupont Line                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 1   |
+| 28 | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\4pin 黑红蓝绿 200mm（1）.png4pin 黑红蓝绿 200mm（1）](media/4de60c3b32470ba75de2c6d2b39dfabb.png)                 | 4P Dupont Line                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 1   |
+| 29 | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\8pin 红黄绿棕蓝紫白黑 150mm（1）.png8pin 红黄绿棕蓝紫白黑 150mm（1）](media/bf19eeab364f6ca14d46faa6d7c49003.png) | 8P M-F Dupont Line                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 1   |
+| 30 | ![](media/69d04377c2793aa29817b737cef8c96f.png)                                                                                                                                     | 50\*82\*0.2MM Plastic Bag                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 6   |
+| 31 | ![](media/69d04377c2793aa29817b737cef8c96f.png)                                                                                                                                     | 63\*106\*0.2MM Plastic Bag                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 1   |
+| 32 | ![](media/eb0a50c81cf729120f39cd019537286a.png)                                                                                                                                     | 4CC 4\*6CM Plastic Bag                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 8   |
+| 33 | ![](media/eb0a50c81cf729120f39cd019537286a.png)                                                                                                                                     | 4CC 10\*15CM Plastic Bag                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 1   |
+
+# Getting Started with Arduino
+
+1.  **KeyestudioDevelopment Board**
+
+**![Ks0172A-图片1](media/85f9bb74f52fac0022f44d4734b6486c.png)**
+
+This board has an ATMEGA16U2 chip which can be UART-to-USB conversion plug.
+
+It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6
+analog inputs, a 16 MHz crystal oscillator, a USB connection, a power jack, 1
+ICSP headers, and a reset button.
+
+It controls the microcontroller. You can use it by connecting it to computer.
+
+| **Microcontroller**             | ATMEGA328P-AU                                            |
+|---------------------------------|----------------------------------------------------------|
+| **Operating Voltage**           | 5V                                                       |
+| **Input Voltage (recommended)** | DC7-12V                                                  |
+| **Digital I/O Pins**            | 14个 (D0-D13)                                            |
+| **PWM Digital I/O Pins**        | 6个 (D3，D5，D6，D9，D10，D11)                           |
+| **Analog Input Pins**           | 6 (A0-A5)                                                |
+| Flash Memory                    | 32 KB (ATMEGA328P-PU) of which 0.5 KB used by bootloader |
+| SRAM                            | 2 KB (ATMEGA328P-PU)                                     |
+| EEPROM                          | 1 KB (ATMEGA328P-PU)                                     |
+| Clock Speed                     | 16 MHz                                                   |
+
+Element and Interfaces:
+
+![图片1(8)-2](media/394875483d2b633742f53f36911d0ef6.png)
+
+|   ![](media/3bb1c25abe86a3f60ac7be228eee073a.png) | **ICSP (In-Circuit Serial Programming) Header** ICSP is the AVR, an Arduino micro-program header consisting of MOSI, MISO, SCK, RESET, VCC, and GND. It is often called the SPI (serial peripheral interface) and can be considered an "extension" of the output. In fact, slave the output devices under the SPI bus host. When connecting to PC, program the firmware to ATMEGA328P-AU.                                                                                           |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](media/90474bf3195205c042f837d56f7f5bc3.png)   | **Serial Communication Pin** Connect to serial communication.  4Pins (GND, VCC (3.3V or 5V controlled by slide switch), RX, TX)                                                                                                                                                                                                                                                                                                                                                     |
+| ![](media/90a9ee4c95ce2062a0aba4ea4e6a966c.png)   | **GND**  Ground pins                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ![](media/9692086f6c487165f7745faae51ef11f.png)   | **V Pins (VCC)** Power the external sensors and modules. Select the voltage of 3.3V or 5V via a slide switch.                                                                                                                                                                                                                                                                                                                                                                       |
+| ![](media/f4f88bf6bbad85b84c2c9ed66b358042.png)   | **Digital I/O** It has 14 digital input/output pins, labeled D0 to D13 (of which 6 can be used as PWM outputs). These pins can be configured as digital input pin to read the logic value (0 or 1). Or used as digital output pin to drive different modules like LED, relay, etc. The pin D3, D5, D6, D9, D10, and D11 can be used to generate PWM.  For digital port, you can connect through female headers, or through pin headers (labeled S) of 2.54mm pitch.                 |
+| ![](media/e1e2b5ea7dc64f0d3718d686f1900b00.png)   | **AREF**  For Analog reference. Sometimes used to set an external reference voltage (0-5V) as the upper limit of analog input pins.                                                                                                                                                                                                                                                                                                                                                 |
+| ![](media/2111adc0fbd7859beb30059380236465.png)   | **SDA** IIC communication pin                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ![](media/9de1b27e2187eac0f881adec62fba633.png)   | **SCL** IIC communication pin                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ![](media/2b17b0cf84a31ccc02181c4f4f98f297.png)   | **ICSP (In-Circuit Serial Programming) Header** ICSP is an AVR, an Arduino micro-program header consisting of MOSI, MISO, SCK, RESET, VCC, and GND. Connected to ATMEGA 16U2-MU. When connecting to PC, program the firmware to ATMEGA 16U2-MU.                                                                                                                                                                                                                                     |
+| ![](media/7f07f9d662bafeaae657330c523601b6.png)   | **Microcontroller**  Each control board has its own microcontroller. You can regard it as the brain of your board. Microcontrollers are usually from ATMEL. Before you load a new program on the Arduino IDE, you must know what IC is on your board. This information can be checked at the top of IC. The microcontroller used in this board is [ATMEGA328P-AU](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf). |
+|  ![](media/298bdd01b65872b389f57bfc11c26905.png)  | **D13 LED**  There is a built-in LED driven by digital pin 13. When the pin is HIGH value, the LED is on, when the pin is LOW, it's off.                                                                                                                                                                                                                                                                                                                                            |
+| ![](media/f0471c9f339df5933afe68e6daa0853b.png)   | **TX LED** Onboard you can find the label: TX (transmit) When the board communicates via serial port, send the message, TX led flashes.                                                                                                                                                                                                                                                                                                                                             |
+|  ![](media/aa9a27dba1b083f18f7251deeab2839b.png)  | **RX LED** Onboard you can find the label: RX(receive ) When the board communicates via serial port, receive the message, RX led flashes.                                                                                                                                                                                                                                                                                                                                           |
+| ![](media/595d159e619fce1eb4e3d31d57439ef3.png)   | **Power LED** LED on means that your circuit board is correctly powered on. Otherwise LED is off.                                                                                                                                                                                                                                                                                                                                                                                   |
+| ![](media/bdd3025540a33f0a9dd6205bf375a603.png)   | **USB Connection** You can power the board via USB connection. Or can upload the program to the board via USB port. Connect the board to PC using a USB cable via USB port.                                                                                                                                                                                                                                                                                                         |
+| ![](media/ee8c12ee2e2a4bba0a07339c335e07c9.png)   | **ATMEGA 16U2-MU**  USB to serial chip, can convert the USB signal into serial port signal.                                                                                                                                                                                                                                                                                                                                                                                         |
+| ![](media/36ac45df4db3ae6ea2ec409c26177c68.png)   | **Slide Switch** You can slide the switch to control the voltage of pin V (VCC), 3.3V or 5V.                                                                                                                                                                                                                                                                                                                                                                                        |
+| ![](media/f005354fbb7cc7a7f74c84f2b4d32aa3.png)   | **Voltage Regulator** To control the voltage provided to the board, as well as to stabilize the DC voltage used by the processor and other components. Convert an external input DC7-12V voltage into DC 5V, then switch DC 5V to the processor and other components, output DC 5V, drive current is 2A.                                                                                                                                                                            |
+| ![](media/ca4ffeaccf51ddc9148844b0a0b785c0.png)   | **DC Power Jack** The board can be supplied with an external power DC7-12V from the DC power jack.                                                                                                                                                                                                                                                                                                                                                                                  |
+| ![](media/acd4248a7de9ea9001fff564675b0f17.png)   | **IOREF**  Used to configure the operating voltage of microcontrollers. Use it less.                                                                                                                                                                                                                                                                                                                                                                                                |
+| ![](media/0ed701382f464cb6943b88ad111f8af1.png)   | **RESET Header**  Connect an external button to reset the board. The function is the same as reset button.                                                                                                                                                                                                                                                                                                                                                                          |
+| ![](media/70983783eac48007fb2b60d204a5febc.png)   | **Pin 3V3 Output** Provides 3.3V voltage output                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ![](media/ec24832167fa80b09cf01c8c4c9be5a2.png)   | **Pin 5V Output** Provides 5V voltage output                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|  ![](media/ba0adaf292c71dd1a69521743a7f961e.png)  | **Vin**  You can supply an external voltage input DC7-12V through this pin to the board.                                                                                                                                                                                                                                                                                                                                                                                            |
+| ![](media/61d803764d915bbbc1f11076776bfcf1.png)   | **Analog Pins** The board has 6 analog inputs, labeled A0 through A5.  Can also used as digital pins, A0=D14, A1=D15, A2=D16, A3=D17, A4=D18, A5=D19. For analog port, you can connect through female headers, or through pin headers (labeled S) of 2.54mm pitch.                                                                                                                                                                                                                  |
+| ![](media/3bd12afea7b05f08e9317fcb88d5b167.png)   | **IIC Communication Pin** Connect to the IIC communication.  4Pins (GND, VCC (3.3V or 5V controlled by slide switch), SDA, SCL)                                                                                                                                                                                                                                                                                                                                                     |
+| ![](media/99540e141c98dbd36ae3808fc23d5c6d.png)   | **RESET Button** You can reset your board to start the program from the initial status.                                                                                                                                                                                                                                                                                                                                                                                             |
+
+# 5. Getting Started with Arduino
+
+1.  **Installing Arduino IDE**
+
+When we get control board, we need to download Arduino IDE and driver firstly.
+
+You could download Arduino IDE from the official website:
+
+<https://www.arduino.cc/>, click the **SOFTWARE** on the browse bar,
+click“DOWNLOADS” to enter download page, as shown below:
+
+![](media/54441cfadc970393e426fa6e33d10017.png)
+
+You can download either Windows win7 and newer or Windows ZIP file.
+
+The first one doesn’t require
+
+There are two versions of IDE for WINDOWS system, you can choose from the
+Installer (.exe) and the Zip packages. We suggest you use the first one that
+installs directly everything you need to use the Arduino Software (IDE),
+including the drivers.
+
+With the Zip package you need to install the drivers manually. The Zip file is
+also useful if you want to create a portable installation.
+
+![](media/05744677f85332ce8169aed7dbfa58a0.png)
+
+![](media/e321a129ef60a8367c31aaecca3cf92b.png)
+
+You just need to click JUST DOWNLOAD.
+
+1.  **Installing Driver**
+
+**Windows 10:**
+
+The driver will be automatically installed if you plug control board to your
+computer. Then the COM port is show below:
+
+![2J]GJ2SFG}V)XUO3UB@RKOI](media/92a17f30a269e76265603a45c3283c87.png)
+
+You need to install it manually if your computer is other Windows system.
+
+We will take win7 system as example.
+
+Right-click ![](media/675ae7298ce0973df720b2fbbb514caa.png) and click **Open
+file location** to find out the **drivers folder**
+
+![](media/bd93889abeed8f6b1c70b145de108d7d.png)
+
+Copy driver folder to D drive.
+
+Right click Computer----- Properties----- Device Manager
+
+You will view **Unknown Device**
+
+![](media/27f6de2d3f0125ed978586e8b99b2033.png)
+
+Click **Unknown devices** to select **Update Device Management**
+
+![](media/8ac7d3085c739ec9c9a89151be325dc9.png)
+
+Click“Browse.....manually”
+
+![](media/31fdd7c7d5c23f2aced927993c8314cd.png)
+
+Find the“drivers”file，and tap“Next”.
+
+![A}ZM5FU2XKL(5GSSBWT0KGX](media/4a638bb3e87737db0a4795418dcf9cf3.jpeg)
+
+Click“install this driver software anyway”
+
+![](media/3b743c92f153068c5417126e25e9ef88.png)
+
+Then click“Close”and check the serial port.
+
+![](media/4ed2b0f5f38a5f9dbd667146f96740e3.png)
+
+Return to Device Manager page if the driver is installed. Then check correct
+port
+
+![](media/42b28476abc3d8b9b8845afb71a3a466.png)
+
+**(3) Arduino IDE Setting**
+
+Click![](media/675ae7298ce0973df720b2fbbb514caa.png)icon，and open Arduino IDE.
+
+![](media/c961eb9fa3d391566799e07a2934803f.png)
+
+To avoid the errors when uploading the program to the board, you need to select
+the correct Arduino board that matches the board connected to your computer.
+
+Then come back to the Arduino software, you should click Tools→Board, select the
+board. (as shown below)
+
+![](media/c694039c9b10aee51ce96e78da551545.png)
+
+Then select the correct COM port (you can see the corresponding COM port after
+the driver is successfully installed).
+
+![](media/42b28476abc3d8b9b8845afb71a3a466.png)
+
+![](media/01ba9f3cdf739bf32cb29940d3c9511c.png)
+
+Before uploading the program to the board, let’s demonstrate the function of
+each symbol in the Arduino IDE toolbar.
+
+![](media/54135d610cd0f7470cef7f89ca04df45.png)
+
+A- Used to verify whether there is any compiling mistakes or not.
+
+B- Used to upload the sketch to your Arduino board.
+
+C- Used to create shortcut window of a new sketch.
+
+D- Used to directly open an example sketch.
+
+E- Used to save the sketch.
+
+F- Used to send the serial data received from board to the serial monitor.
+
+## (4) Start your first program
+
+We’ve known how to download and install the driver of development board , next,
+we will burn a code to show“Hello World！”in the monitor.
+
+void setup() {
+
+// initialize serial communication at 9600 bits per second:
+
+Serial.begin(9600);
+
+}
+
+void loop() {
+
+// print out "Hello world!"
+
+Serial.println("Hello world!");
+
+delay(1000);// delay 1 second
+
+}
+
+Then let’s make monitor show Hello World！
+
+Open Arduino IDE, and select **Arduino UNO**
+
+![](media/c694039c9b10aee51ce96e78da551545.png)
+
+Set COM port, as shown below:
+
+![](media/01ba9f3cdf739bf32cb29940d3c9511c.png)
+
+Click![](media/ddd21c81338ae1f6b7f84de2a3caecf0.png)to start compiling the
+program, and check errors.
+
+Click![](media/9c9158a5d49baa740ea2f0048f655017.png)to upload the program,
+upload successfully.
+
+![](media/101d0d2bf0df811e28a6a06f7f3ec64a.png)
+
+Upload the program successfully, open serial monitor and set baud rate to 9600.
+Monitor will print“Hello World!”each 1s.
+
+Congratulation, you finish the first program.
+
+![](media/5cde62c72992c9d7c353dcca780fbbcb.png)
+
+# Projects
+
+The whole project begins with basic program. Starting from simple to complex,
+the lessons will guide you to assemble smart motorhome and absorb the knowledge
+of electronic and machinery step by step.
+
+Note: (G), marked on each sensor and module, is negative pole and connected
+to“G”,“-”or“GND”on the sensor shield or control board ; (V) is positive pole and
+interfaced with“V”,“VCC”,“+”or“5V”on the sensor shield or control board.
+
+## Project 1: LED Blink
+
+1.  **Description：**
+
+![led-lights](media/7541db758dbca2c2a100b2b0227f9af4.jpeg)
+
+For the starter and enthusiast, this is a fundamental program---LED Blink.
+
+LED, the abbreviation of light emitting diodes, consist of Ga, As, P, N chemical
+compound and so on. It is often applied to numbers and text display as an
+indicator in the circuit.
+
+The LED can flash diverse color by altering the delay time in the test code.
+When in control, power on GND and VCC, the LED will be on if S end is high
+level; nevertheless, it will go off.
+
+**(2) Parameter：**
+
+![](media/85b2076096371fd9ca03671602b1e5ce.png)![](media/1a9fff2a791f15800247faf988d42374.png)
+
+-   Control interface: digital port
+
+-   Working voltage: DC 3.3-5V
+
+-   Pin spacing: 2.54mm
+
+-   LED display color: yellow
+
+### (3) Component：
+
+| Keyestudio Development Board\*1                      | Keyestudio Yellow LED Module\*1                 | 20cm 3pin F-F 26AWG Dupont Line\*1                                                                                                                              |
+|------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](media/b8160daa2fb2665c9438a45760dbb61f.png)      | ![](media/1a9fff2a791f15800247faf988d42374.png) | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\3pin 黑红黄 150mm（1）.png3pin 黑红黄 150mm（1）](media/a6f94cd448d58a53f41b2a1fa2204863.png) |
+| USB Cable\*1                                         |                                                 |                                                                                                                                                                 |
+| ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg) |                                                 |                                                                                                                                                                 |
+
+### (4) Wiring Diagram：
+
+The pin -, + and S of LED module are connected to the pin G, 5V and D10 port of
+expansion board
+
+![LED](media/3bb0b17ff40224bbf1191e4d76d363b0.png)
+
+### Test Code：
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**lesson 1.1**
+
+**Blink**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#define LED 10 // define a pin of LED as D10**
+
+**void setup()**
+
+**{**
+
+**pinMode(LED, OUTPUT);// initialize digital pin LED as an output.**
+
+**}**
+
+**void loop() // the loop function runs over and over again forever**
+
+**{**
+
+**digitalWrite(LED, HIGH); // turn the LED on (HIGH is the voltage level**
+
+**delay(1000); // wait for a second**
+
+**digitalWrite(LED, LOW); // turn the LED off by making the voltage LOW**
+
+**delay(1000); // wait for a second**
+
+**}**
+
+### Test Result：
+
+Upload the program, LED blinks with the interval of 1s.
+
+### Code Explanation:
+
+**pinMode(LED，OUTPUT)** - This function can denote that the pin is INPUT or
+OUTPUT.
+
+**digitalWrite(LED，HIGH)** - When pin is OUTPUT, we can set it to HIGH(output
+5V) or LOW(output 0V).
+
+### Extension Practice：
+
+The LED flashes for 1s through the test result, therefore, delay time can change
+flash frequency.
+
+**Test Code:**
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**lesson 1.2**
+
+**Blink**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#define LED 10 //define a pin of LED as D10**
+
+**void setup()**
+
+**{**
+
+**pinMode(LED, OUTPUT);// initialize digital pin LED as an output.**
+
+**}**
+
+**void loop() // the loop function runs over and over again forever**
+
+**{**
+
+**digitalWrite(LED, HIGH); // turn the LED on (HIGH is the voltage level**
+
+**delay(100); // wait for a second**
+
+**digitalWrite(LED, LOW); // turn the LED off by making the voltage LOW**
+
+**delay(100); // wait for a second**
+
+**}**
+
+Upload code and observe the LED state
+
+**Project 2: Adjust LED Brightness**
+
+### Description：
+
+In previous lesson, we control LED on and off and make it blink.
+
+In this project, we will control LED brightness through PWM to simulate
+breathing effect. Similarly, you can change the step length and delay time in
+the code so as to demonstrate different breathing effect.
+
+PWM is a means of controlling the analog output via digital means. Digital
+control is used to generate square waves with different duty cycles (a signal
+that constantly switches between high and low levels) to control the analog
+output.In general, the input voltage of port are 0V and 5V. What if the 3V is
+required? Or what if switch among 1V, 3V and 3.5V? We can’t change resistor
+constantly. For this situation, we need to control by PWM.
+
+![0_LPC1768_PWM](media/bbcfcb9ae56abb7e80ee587246fc4be9.GIF)
+
+For the Arduino digital port voltage output, there are only LOW and HIGH, which
+correspond to the voltage output of 0V and 5V. You can define LOW as 0 and HIGH
+as 1, and let the Arduino output five hundred 0 or 1 signals within 1 second.
+
+If output five hundred 1, that is 5V; if all of which is 1, that is 0V. If
+output 010101010101 in this way then the output port is 2.5V, which is like
+showing movie. The movie we watch are not completely continuous. It actually
+outputs 25 pictures per second. In this case, the human can’t tell it, neither
+does PWM. If want different voltage, need to control the ratio of 0 and 1. The
+more 0,1 signals output per unit time, the more accurately control.
+
+### Required Components：
+
+| Keyestudio Main Board\*1                             | Keyestudio Yellow LED Module\*1                 | 20cm 3pin F-F 26AWG Dupont Line\*1                                                                                                                              |
+|------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](media/b8160daa2fb2665c9438a45760dbb61f.png)      | ![](media/1a9fff2a791f15800247faf988d42374.png) | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\3pin 黑红黄 150mm（1）.png3pin 黑红黄 150mm（1）](media/a6f94cd448d58a53f41b2a1fa2204863.png) |
+| USB Cable\*1                                         |                                                 |                                                                                                                                                                 |
+| ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg) |                                                 |                                                                                                                                                                 |
+
+### Wiring Diagram：
+
+The wiring diagram is as same as the project 1
+
+![LED](media/3bb0b17ff40224bbf1191e4d76d363b0.png)
+
+### Test Code：
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**lesson 2.1**
+
+**PWM**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#define LED 10 //define a pin of LED as D10**
+
+**int value;**
+
+**void setup()**
+
+**{**
+
+**pinMode(LED, OUTPUT);// initialize digital pin LED as an output.**
+
+**}**
+
+**void loop () {**
+
+**for (value = 0; value \< 255; value = value + 1) {**
+
+**analogWrite (LED, value); // LED lights gradually light up**
+
+**delay (5); // delay 5MS**
+
+**}**
+
+**for (value = 255; value \> 0; value = value - 1) {**
+
+**analogWrite (LED, value); // LED gradually goes out**
+
+**delay (5); // delay 5MS**
+
+**}**
+
+**}**
+
+### Test Result：
+
+Upload test code successfully, LED gradually becomes brighter then darker, like
+human breath.
+
+### (6) Code Explanation
+
+When we need to repeat some statements, we could use FOR statement.
+
+FOR statement format is shown below:
+
+![图1(1)](media/65da124bdd0ea488291c71c6b879fe95.jpeg)
+
+FOR cyclic sequence:
+
+Round 1：1 → 2 → 3 → 4
+
+Round 2：2 → 3 → 4
+
+…
+
+Until number 2 is not established, “for”loop is over,
+
+After knowing this order, go back to code:
+
+**for (int value = 0; value \< 255; value=value+1){**
+
+**...}**
+
+**for (int value = 255; value \>0; value=value-1){**
+
+**...}**
+
+The two“for”statements make value increase from 0 to 255, then reduce from 255
+to 0, then increase to 255,....infinitely loop
+
+There is a new function in the following ----- analogWrite()
+
+We know that digital port only has two state of 0 and 1. So how to send an
+analog value to a digital value? Here,this function is needed. Let’s observe the
+Arduino board and find 6 pins marked“\~”which can output PWM signals.
+
+Function format as follows:
+
+**analogWrite(pin,value)**
+
+analogWrite() is used to write an analog value from 0\~255 for PWM port, so the
+value is in the range of 0\~255. Attention that you only write the digital pins
+with PWM function, such as pin 3, 5, 6, 9, 10, 11.
+
+PWM is a technology to obtain analog quantity through digital method. Digital
+control forms a square wave, and the square wave signal only has two states of
+turning on and off (that is, high or low levels). By controlling the ratio of
+the duration of turning on and off, a voltage varying from 0 to 5V can be
+simulated. The time turning on(academically referred to as high level) is called
+pulse width, so PWM is also called pulse width modulation.
+
+Through the following five square waves, let’s acknowledge more about PWM.
+
+![C:\\Users\\zuokejian\\AppData\\Local\\Temp\\ksohtml13604\\wps19.png](media/553f3d1b6ca04e1aa0479841dd075fa2.png)
+
+In the above figure, the green line represents a period, and value of
+analogWrite() corresponds to a percentage which is called Duty Cycle as well.
+Duty cycle implies that high-level duration is divided by low-level duration in
+a cycle. From top to bottom, the duty cycle of first square wave is 0% and its
+corresponding value is 0. The LED brightness is lowest, that is, turn off. The
+more time high level lasts, the brighter the LED. Therefore, the last duty cycle
+is 100%, which correspond to 255, LED is brightest. 25% means darker.
+
+PWM mostly is used for adjusting the LED brightness or rotation speed of motor.
+
+It plays vital role in controlling smart robot car. I believe that you can’t
+wait to enter next project.
+
+### (7) Extension Practice：
+
+Let’s observe the status of LED if we change the delay value
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**lesson 2.2**
+
+**PWM**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#define LED 10 // define a pin of LED as D10**
+
+**int value;**
+
+**void setup()**
+
+**{**
+
+**pinMode(LED, OUTPUT);// initialize digital pin LED as an output.**
+
+**}**
+
+**void loop () {**
+
+**for (value = 0; value \< 255; value = value + 1) {**
+
+**analogWrite (LED, value); // LED lights gradually light up**
+
+**delay (20); // delay 20MS**
+
+**}**
+
+**for (value = 255; value \> 0; value = value - 1) {**
+
+**analogWrite (LED, value); // LED gradually goes out**
+
+**delay (20); // delay 20MS**
+
+**}**
+
+**}**
+
+Upload code to development board, the LED’s blink frequency is slower, isn’t it?
+
+## Project 3: 1602 LCD Display Module
+
+### Description：
+
+![KS0061 (2)](media/ab1818942731c6e822a574ba5c0df31e.jpeg)
+
+With I2C communication module, this is a display module that can show 2 lines
+with 16 characters per line.
+
+It shows blue background and white word and connects to I2C interface of MCU,
+which highly save the MCU resources.
+
+On the back of LCD display, there is a blue potentiometer for adjusting the
+backlight. The communication address defaults to 0x27.
+
+The original 1602 LCD can start and run with 7 IO ports, but ours is built with
+ARDUINOIIC/I2C interface, saving 5 IO ports. Alternatively, the module comes
+with 4 positioning holes with a diameter of 3mm, which is convenient for you to
+fix on other devices.
+
+### (2) Specification：
+
+-   I2C address: 0x27
+
+-   Backlight (blue, white)
+
+-   Power supply voltage: 5V
+
+-   Adjustable contrast
+
+-   GND: A pin that connects to ground
+
+-   VCC: A pin that connects to a +5V power supply
+
+-   SDA: A pin that connects to analog port 20 for IIC communication
+
+-   SCL: A pin that connects to analog port 21 for IIC communication
+
+### (3) Component：
+
+| Keyestudio Main Board\*1                                                                                                                                            | Keyestudio I2C1602 Display Module\*1                       | USB Cable \*1                                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------|
+| ![](media/b8160daa2fb2665c9438a45760dbb61f.png)                                                                                                                     | ![KS0061 (1)](media/f85d58c5c6589310b571d3922bfba04f.jpeg) | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg) |
+| 20cm 26AWG  4P-1P F-F Black/Red/Blue/Green Dupont Line                                                                                                              |                                                            |                                                      |
+| ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\4pin 黑红蓝绿 200mm（1）.png4pin 黑红蓝绿 200mm（1）](media/4de60c3b32470ba75de2c6d2b39dfabb.png) |                                                            |                                                      |
+
+### (4) Wiring Diagram：
+
+Note：the pin GND, VCC, SDA and SCL of 1602LCD module are connected to GND(-),
+5V(+), SDA and SCL of IIC communication
+
+![1602](media/d1e26f55350cec4bd8637db792e05415.png)
+
+### (5) Test Code：
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**Lesson_3.1**
+
+**I2C 1602**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#include \<Wire.h\>**
+
+**\#include \<LiquidCrystal_I2C.h\> // includes the LiquidCrystal_I2C Library**
+
+**LiquidCrystal_I2C lcd(0x27, 16, 2); // set the LCD address to 0x27 for a 16
+chars and 2 line display**
+
+**void setup() {**
+
+**lcd.init();**
+
+**// Print a message to the LCD.**
+
+**lcd.backlight(); //set backlight**
+
+**lcd.setCursor(0,0); //set Cursor at(0,0)**
+
+**lcd.print("Hello, World!"); //display "Hello, World!"**
+
+**lcd.setCursor(0,1); //set Cursor at(0,1)**
+
+**lcd.print("Hello, Keyes!"); //show "Hello, Keyes!"**
+
+**}**
+
+**void loop () {**
+
+**}**
+
+### Test Result：
+
+Upload code, wire up according to connection diagram and power on. 1602 LCD will
+display“Hello World！”at the first row and show“Hello Keyes！”at the second row.
+
+Note: wire up connection diagram, upload code and power on. You can adjust the
+potentiometer on the back of 1602LCD display module to display the character
+strings
+
+## Project 4 Power Amplifier Module
+
+### Description：
+
+![KS0374 功放模块 (8)](media/d8e5eeb8b57d65cc5e59fcc7e9310f5d.jpeg)
+
+We can use Arduino to make many interactive works of which the most commonly
+used is acoustic-optic display.
+
+The circuit in this experiment can produce sound. Normally, the experiment is
+done with a buzzer or a speaker while buzzer is simpler and easier to use. In
+this project, this power amplifier module is equivalent to passive buzzer. It
+can emit“do re mi fa so la si do”sound via code.
+
+### Parameters：
+
+Control Port: Digital port
+
+Working Voltage: DC 5V
+
+**(3) Required Components**
+
+| Keyestudio Main Board\*1                             | Keyestudio Power Amplifier Module\*1                                | 20cm 3pin F-F 26AWG Dupont Line\*1                                                                                                                              |
+|------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](media/b8160daa2fb2665c9438a45760dbb61f.png)      | ![KS0374 功放模块 (8)](media/74384b08c060c6540772703a92183830.jpeg) | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\3pin 黑红黄 150mm（1）.png3pin 黑红黄 150mm（1）](media/45442b95f9a11e3f83a12d9c621bbe45.png) |
+| USB Cable\*1                                         |                                                                     |                                                                                                                                                                 |
+| ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg) |                                                                     |                                                                                                                                                                 |
+
+### (4) Wiring Diagram：
+
+Note: The G, V and S of power amplifier module are separated to G, V and A0 of
+expansion board
+
+![buzzer](media/95e3e79dc63ba6b7e25d004ef81df615.png)
+
+### (5) Test Code：
+
+**//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**Lesson_4.1**
+
+**buzzer**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**const int buzzer A0 //buzzer pin to A0**
+
+**void setup() {**
+
+**pinMode(buzzer, OUTPUT);//set digital A0 to OUTPUT**
+
+**}**
+
+**void loop () {**
+
+**tone(buzzer, 262); //Buzzer emits a sound with 262Hz**
+
+**delay(250); //delay in 250ms**
+
+**tone(buzzer, 294);; //Buzzer emits a sound with 262Hz**
+
+**delay(250); //delay in 250ms**
+
+**tone(buzzer, 330);**
+
+**delay(250);**
+
+**tone(buzzer, 349);**
+
+**delay(250);**
+
+**tone(buzzer, 392);**
+
+**delay(250);**
+
+**tone(buzzer, 440);**
+
+**delay(250);**
+
+**tone(buzzer, 494);**
+
+**delay(250);**
+
+**tone(buzzer, 532);**
+
+**delay(250);**
+
+**noTone(buzzer); // Output sound when buzzer turns off**
+
+**delay(1000);**
+
+**}**
+
+### (6) Test Result：
+
+Upload code to Keyestudio development board, power amplifier module will emit“do
+re mi fa so la si do”.
+
+### Extension Practice：play music
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**Lesson_4.2**
+
+**buzzer**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**const int buzzer 13 //buzzer pin to D13**
+
+**void setup() {**
+
+**pinMode(buzzer, OUTPUT);//set digital 13 to OUTPUT**
+
+**}**
+
+**void loop () {**
+
+**birthday();**
+
+**}**
+
+**////////////////////////Set Happy Birthday//////////////////////////////////**
+
+**void birthday()**
+
+**{**
+
+**tone(buzzer, 294); //buzzer outputs a sound with 294Hz**
+
+**delay(250);//delay in 250ms**
+
+**tone(buzzer, 440);**
+
+**delay(250);**
+
+**tone(buzzer, 392);**
+
+**delay(250);**
+
+**tone(buzzer, 532);**
+
+**delay(250);**
+
+**tone(buzzer, 494);**
+
+**delay(500);**
+
+**tone(buzzer, 392);**
+
+**delay(250);**
+
+**tone(buzzer, 440);**
+
+**delay(250);**
+
+**tone(buzzer, 392);**
+
+**delay(250);**
+
+**tone(buzzer, 587);**
+
+**delay(250);**
+
+**tone(buzzer, 532);**
+
+**delay(500);**
+
+**tone(buzzer, 392);**
+
+**delay(250);**
+
+**tone(buzzer, 784);**
+
+**delay(250);**
+
+**tone(buzzer, 659);**
+
+**delay(250);**
+
+**tone(buzzer, 532);**
+
+**delay(250);**
+
+**tone(buzzer, 494);**
+
+**delay(250);**
+
+**tone(buzzer, 440);**
+
+**delay(250);**
+
+**tone(buzzer, 698);**
+
+**delay(375);**
+
+**tone(buzzer, 659);**
+
+**delay(250);**
+
+**tone(buzzer, 532);**
+
+**delay(250);**
+
+**tone(buzzer, 587);**
+
+**delay(250);**
+
+**tone(buzzer, 532);**
+
+**delay(500);**
+
+**}**
+
+## Project 5: 4\*4 Membrane Keypad
+
+### Description：
+
+To save I/O ports of MCU, we make a Membrane Keypad. In this project, we will
+make an experiment; serial monitor will display the corresponding character when
+the membrane keypad is pressed.
+
+![](media/3ba5903153ae930391084d54e7523f8f.png)
+
+**Schematic Diagram:**
+
+![](media/fb7d889d4e1bfcf516cc064af597808d.png)
+
+### Specification：
+
+-   Working Voltage: 3.3V\~5V
+
+-   Port：digital port
+
+### Component：
+
+| Keyestudio Main Board\*1                             | Keyestudio 4\*4 Membrane Keypad\*1                          | 15cm 8pin M-F 26AWG Dupont Line \*1                                                                                                                                                 |
+|------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](media/b8160daa2fb2665c9438a45760dbb61f.png)      | ![MD0090 (15)](media/4a389f13ccea4e1da3d01eb6066fde7b.jpeg) | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\8pin 红黄绿棕蓝紫白黑 150mm（1）.png8pin 红黄绿棕蓝紫白黑 150mm（1）](media/bf19eeab364f6ca14d46faa6d7c49003.png) |
+| USB Cable\*1                                         |                                                             |                                                                                                                                                                                     |
+| ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg) |                                                             |                                                                                                                                                                                     |
+
+### Wiring Diagram：
+
+![keypad](media/4d16b33228541400895ac692e7c4e68d.png)
+
+### Test Code：
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**Lesson_5.1**
+
+**Keypad**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#include \<Keypad.h\>**
+
+**const byte ROWS = 4; //four rows**
+
+**const byte COLS = 4; //four columns**
+
+**char keypressed;**
+
+**//define the cymbols on the buttons of the keypads**
+
+**char keyMap[ROWS][COLS] = {**
+
+**{'1', '2', '3', 'A'},**
+
+**{'4', '5', '6', 'B'},**
+
+**{'7', '8', '9', 'C'},**
+
+**{'\*', '0', '\#', 'D'}**
+
+**};**
+
+**byte rowPins[ROWS] = {2, 3, 4,5}; //Row pinouts of the keypad**
+
+**byte colPins[COLS] = {6, 7, 8, 9}; //Column pinouts of the keypad**
+
+**Keypad myKeypad = Keypad( makeKeymap(keyMap), rowPins, colPins, ROWS, COLS);**
+
+**void setup()**
+
+**{**
+
+**Serial.begin(9600); //Set baud rate to 9600**
+
+**}**
+
+**void loop ()**
+
+**{**
+
+**keypressed = myKeypad.getKey(); // read key values**
+
+**if (keypressed != NO_KEY) { //read key values**
+
+**Serial.print("key:");**
+
+**Serial.println(keypressed); //print key values**
+
+**}**
+
+**}**
+
+Download code to board, open serial monitor and set baud rate to 9600.
+
+The monitor will show the corresponding key values when some keys are pressed,
+as shown below;
+
+### Test Result：
+
+Download code, open serial monitor and set baud rate to 9600. The serial monitor
+will show the corresponding key value when the key of membrane keypad is
+pressed, as shown below;
+
+![](media/75fc365a9c8319b9640923b83e12382f.png)
+
+## Project 6: DS3231 Clock Module：
+
+### (1) Description：
+
+Clock module can be displayed time and a timer. In this project, we will show
+time and temperature with DS3231 module.
+
+The clock operation can adopt 24 or 12 hour format through AM/PM indication.
+
+High accuracy and inner temperature compensation of built-in crystal oscillator
+makes less error. Also, it has automatic compensation for leap-years and for
+months with fewer than 31 days.
+
+The clock operation can adopt 24 or 12 hour format through AM/PM indication.
+
+DS3231 is used for major power and back-up power. It provides two programmable
+calendar alarm and 1-channel programmable wave output.
+
+The precise, compensated voltage reference and comparator, supervise the VCC
+status, detect circuit error, provide reset outputs and switch to back-up power
+when necessary.
+
+### Specification：
+
+1)Temperature range: -40 to +85; Timing accuracy : ± 5ppm (±0.432 seconds / day)
+
+2)Provide battery backup for continuous timing
+
+3)Low power consumption
+
+4)Device package and function compatible with DS3231
+
+5)Complete clock calendar function contains seconds and minutes, hour, week,
+date, month, and year timing and provides leap year compensation until 2100.
+
+6)Two calendar clock
+
+7)Output: 1Hz and 32.768kHz
+
+8)Reset output and Input Debounce of Pushbutton
+
+9)High speed (400kHz), I2C serial bus
+
+10)Supply voltage: +3.3V to +5.5V
+
+11)Digital temperature sensor with a precision of±3℃
+
+12)Working temperature: -40 \~ C to +85 \~ C
+
+13)16 pins Small Outline Package (300mil)
+
+### (3）Components：
+
+| Keyestudio Main Board\*1                             | Keyestudio DS3231 Clock Module                                                   | Keyestudio I2C1602 LCD Display\*1                                                                                                                                   |
+|------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](media/b8160daa2fb2665c9438a45760dbb61f.png)      | ![时钟2](media/0c7c55afdba49099d2ec53f84b95014a.png)                             | ![液晶屏](media/960f7b887fc80426b1a5a4744519275d.jpeg)                                                                                                              |
+| USB Cable\*1                                         | 4P-1P F-F Black/Red/Blue/Green Dupont Line                                       | 4P Dupont Line                                                                                                                                                      |
+| ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg) | ![C:\\Users\\Admin\\Desktop\\1.png1](media/d296e9f87fcc0049b108e89bcf1bea66.png) | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\4pin 黑红蓝绿 200mm（1）.png4pin 黑红蓝绿 200mm（1）](media/4de60c3b32470ba75de2c6d2b39dfabb.png) |
+
+### (4) Wiring Diagram：
+
+![ds3231](media/014614ed79f3e6b70a5de38d23c18eeb.png)
+
+### (5) Test Code：
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**Lesson_6.1**
+
+**DS3231**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#include \<DS3231.h\>**
+
+**\#include \<Wire.h\>**
+
+**DS3231 clock;**
+
+**bool century = false;**
+
+**bool h12Flag;**
+
+**bool pmFlag;**
+
+**byte alarmDay, alarmHour, alarmMinute, alarmSecond, alarmBits;**
+
+**bool alarmDy, alarmH12Flag, alarmPmFlag;**
+
+**void setup() {**
+
+**// Start the I2C interface**
+
+**Wire.begin();**
+
+**// Start the serial interface**
+
+**Serial.begin(57600);**
+
+**}**
+
+**void loop() {**
+
+**// send what's going on to the serial monitor.**
+
+**// Start with the year**
+
+**Serial.print("2");**
+
+**if (century) {  // Won't need this for 89 years.**
+
+**Serial.print("1");**
+
+**} else {**
+
+**Serial.print("0");**
+
+**}**
+
+**Serial.print(clock.getYear(), DEC);**
+
+**Serial.print(' ');**
+
+**// then the month**
+
+**Serial.print(clock.getMonth(century), DEC);**
+
+**Serial.print(" ");**
+
+**// then the date**
+
+**Serial.print(clock.getDate(), DEC);**
+
+**Serial.print(" ");**
+
+**// and the day of the week**
+
+**Serial.print(clock.getDoW(), DEC);**
+
+**Serial.print(" ");**
+
+**// Finally the hour, minute, and second**
+
+**Serial.print(clock.getHour(h12Flag, pmFlag), DEC);**
+
+**Serial.print(" ");**
+
+**Serial.print(clock.getMinute(), DEC);**
+
+**Serial.print(" ");**
+
+**Serial.print(clock.getSecond(), DEC);**
+
+**// Add AM/PM indicator**
+
+**if (h12Flag) {**
+
+**if (pmFlag) {**
+
+**Serial.print(" PM ");**
+
+**} else {**
+
+**Serial.print(" AM ");**
+
+**}**
+
+**} else {**
+
+**Serial.print(" 24h ");**
+
+**}**
+
+**// Display the temperature**
+
+**Serial.print("T=");**
+
+**Serial.print(clock.getTemperature(), 2);**
+
+**// Tell whether the time is (likely to be) valid**
+
+**if (clock.oscillatorCheck()) {**
+
+**Serial.print(" O+");**
+
+**} else {**
+
+**Serial.print(" O-");**
+
+**}**
+
+**// Indicate whether an alarm went off**
+
+**if (clock.checkIfAlarm(1)) {**
+
+**Serial.print(" A1!");**
+
+**}**
+
+**if (clock.checkIfAlarm(2)) {**
+
+**Serial.print(" A2!");**
+
+**}**
+
+**// New line on display**
+
+**Serial.println();**
+
+**// Display Alarm 1 information**
+
+**Serial.print("Alarm 1: ");**
+
+**clock.getA1Time(alarmDay, alarmHour, alarmMinute, alarmSecond, alarmBits,
+alarmDy, alarmH12Flag, alarmPmFlag);**
+
+**Serial.print(alarmDay, DEC);**
+
+**if (alarmDy) {**
+
+**Serial.print(" DoW");**
+
+**} else {**
+
+**Serial.print(" Date");**
+
+**}**
+
+**Serial.print(' ');**
+
+**Serial.print(alarmHour, DEC);**
+
+**Serial.print(' ');**
+
+**Serial.print(alarmMinute, DEC);**
+
+**Serial.print(' ');**
+
+**Serial.print(alarmSecond, DEC);**
+
+**Serial.print(' ');**
+
+**if (alarmH12Flag) {**
+
+**if (alarmPmFlag) {**
+
+**Serial.print("pm ");**
+
+**} else {**
+
+**Serial.print("am ");**
+
+**}**
+
+**}**
+
+**if (clock.checkAlarmEnabled(1)) {**
+
+**Serial.print("enabled");**
+
+**}**
+
+**Serial.println();**
+
+**// Display Alarm 2 information**
+
+**Serial.print("Alarm 2: ");**
+
+**clock.getA2Time(alarmDay, alarmHour, alarmMinute, alarmBits, alarmDy,
+alarmH12Flag, alarmPmFlag);**
+
+**Serial.print(alarmDay, DEC);**
+
+**if (alarmDy) {**
+
+**Serial.print(" DoW");**
+
+**} else {**
+
+**Serial.print(" Date");**
+
+**}**
+
+**Serial.print(" ");**
+
+**Serial.print(alarmHour, DEC);**
+
+**Serial.print(" ");**
+
+**Serial.print(alarmMinute, DEC);**
+
+**Serial.print(" ");**
+
+**if (alarmH12Flag) {**
+
+**if (alarmPmFlag) {**
+
+**Serial.print("pm");**
+
+**} else {**
+
+**Serial.print("am");**
+
+**}**
+
+**}**
+
+**if (clock.checkAlarmEnabled(2)) {**
+
+**Serial.print("enabled");**
+
+**}**
+
+**// display alarm bits**
+
+**Serial.println();**
+
+**Serial.print("Alarm bits: ");**
+
+**Serial.println(alarmBits, BIN);**
+
+**Serial.println();**
+
+**delay(1000);**
+
+**}**
+
+### (6) Test Result：
+
+Add the library of DS3221 clock module, and upload code. Then open serial
+monitor, set baud rate to 57600.
+
+We will view date, time, temperature and alarm.
+
+![](media/69a2e22b6c69d114d3215a14d29f2a87.png)
+
+### Extension Practice：refresh data and temperature on LCD
+
+**![ds3231+1602](media/07674355f95db47a92f264fafab68450.png)**
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**Lesson_6.2**
+
+**DS3231**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#include \<DS3231.h\>**
+
+**\#include \<Wire.h\>**
+
+**\#include \<LiquidCrystal_I2C.h\>**
+
+**LiquidCrystal_I2C lcd(0x27, 16, 2);**
+
+**DS3231 clock;**
+
+**bool century = false; //true is 22century, set true to 22th century**
+
+**bool h12Flag; //we default false and use 24 hour format**
+
+**bool pmFlag; //set variable to false and set 24 hour format**
+
+**byte year, month, date, hour, minute, second, week; //save the variable of
+time**
+
+**void setup() {**
+
+**lcd.init(); // initialize LCD**
+
+**lcd.backlight(); //set backlight of LCD on**
+
+**// Start the I2C interface**
+
+**Wire.begin();**
+
+**// lcd.clear();**
+
+**lcd.setCursor(0, 0);**
+
+**lcd.print("2");**
+
+**lcd.setCursor(1, 0);**
+
+**if (century) {**
+
+**lcd.print("1");**
+
+**} else {**
+
+**lcd.print("0");**
+
+**}**
+
+**}**
+
+**void loop() {**
+
+**// send what's going on to the LCD1602.**
+
+**lcd.setCursor(2, 0);**
+
+**year = clock.getYear();**
+
+**if (year \< 10) {**
+
+**lcd.setCursor(2, 0);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(3, 0);**
+
+**lcd.print(year);**
+
+**} else {**
+
+**lcd.setCursor(2, 0);**
+
+**lcd.print(year);**
+
+**}**
+
+**lcd.setCursor(4, 0);**
+
+**lcd.print("-");**
+
+**// then the month**
+
+**month = clock.getMonth(century);**
+
+**if (month \< 10) {**
+
+**lcd.setCursor(5, 0);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(6, 0);**
+
+**lcd.print(month);**
+
+**} else {**
+
+**lcd.setCursor(5, 0);**
+
+**lcd.print(month);**
+
+**}**
+
+**lcd.setCursor(7, 0);**
+
+**lcd.print("-");**
+
+**// then the date**
+
+**date = clock.getDate();**
+
+**if (date \< 10) {**
+
+**lcd.setCursor(8, 0);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(9, 0);**
+
+**lcd.print(date);**
+
+**} else {**
+
+**lcd.setCursor(8, 0);**
+
+**lcd.print(date);**
+
+**}**
+
+**lcd.setCursor(10, 0);**
+
+**lcd.print(" ");**
+
+**// and the day of the week**
+
+**week = clock.getDoW();**
+
+**lcd.setCursor(11, 0);**
+
+**lcd.print("Week");**
+
+**lcd.setCursor(15, 0);**
+
+**lcd.print(week);**
+
+**// Finally the hour, minute, and second**
+
+**hour = clock.getHour(h12Flag, pmFlag);**
+
+**if (hour \< 10) {**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(1, 1);**
+
+**lcd.print(hour);**
+
+**} else {**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print(hour);**
+
+**}**
+
+**lcd.setCursor(2, 1);**
+
+**lcd.print(":");**
+
+**minute = clock.getMinute();**
+
+**if (minute \< 10) {**
+
+**lcd.setCursor(3, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(4, 1);**
+
+**lcd.print(minute);**
+
+**} else {**
+
+**lcd.setCursor(3, 1);**
+
+**lcd.print(minute);**
+
+**}**
+
+**lcd.setCursor(5, 1);**
+
+**lcd.print(":");**
+
+**second = clock.getSecond();**
+
+**if (second \< 10) {**
+
+**lcd.setCursor(6, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(7, 1);**
+
+**lcd.print(second);**
+
+**} else {**
+
+**lcd.setCursor(6, 1);**
+
+**lcd.print(second);**
+
+**}**
+
+**lcd.setCursor(8, 1);**
+
+**lcd.print(" ");**
+
+**// Display the temperature**
+
+**if (clock.getTemperature() \< 10) {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(" ");**
+
+**lcd.setCursor(12, 1);**
+
+**lcd.print(clock.getTemperature(), 1);**
+
+**} else {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(clock.getTemperature(), 1);**
+
+**}**
+
+**lcd.setCursor(15, 1);**
+
+**lcd.print("C");**
+
+**}**
+
+## Project 7 Install Electronic Scale
+
+| **Precaution**                                                                                                                                                                                                                                                                                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  The front side of each board has a number, the back side is marked ”Back side”. You don’t need to screw the nuts of proof window too tight Assemble the slot and top board gently in case they are broken Install battery cell in the clock module. 5. Peel the thin film off the acrylic boards. In the subsequent projects, the wiring-up of sensors is the same as the previous wiring.  |
+
+| Installation Steps                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Part 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|   Required parts：                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分.jpg1_第一部分](media/3aebab5a4648aa4aa6987461bcc59b32.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Step 1  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\功放.jpg功放](media/ae471c0c82ab4b8b5a60a1ad574199a1.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\称重模块.jpg称重模块](media/5704f253ab8dbc3bd16d7f8f8d8cbf95.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\时钟.jpg时钟](media/b0df3a4c8abbeb70a2bb073a1ee44796.jpeg) Step 2 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分步骤1.jpg1_第一部分步骤1](media/e32201783f20ee8e51c2c9eace7959d6.jpeg) ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分步骤1完成.jpg1_第一部分步骤1完成](media/309e4acc6ff0270f8485bbec6039cc5c.jpeg)  Step 3  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分步骤2.jpg1_第一部分步骤2](media/0141456741e888558b32e041ebd49694.jpeg)    ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分步骤2完成.jpg1_第一部分步骤2完成](media/c502e4eb68e2666f79a783fafa5ed326.jpeg) ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分步骤3.jpg1_第一部分步骤3](media/6ea6117f4dac4be471dfd5c7ba34d07a.jpeg) ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分步骤3完成.jpg1_第一部分步骤3完成](media/5f009fa3751ed3f46b9b3e17a0633048.jpeg)   Step 4  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分步骤4完成.jpg1_第一部分步骤4完成](media/3bda3425957bd5985bafaa34b42aadf0.jpeg)    ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第一部分完成.jpg1_第一部分完成](media/08717b91611801252ca64419b6e0de77.jpeg) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Part 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|     Required parts：                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第二部分.jpg1_第二部分](media/ec607ea38d2876f692c130e65c7e7bfd.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Step 1  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\液晶屏.jpg液晶屏](media/db97f22fad3bc0b3c9cb95e0ccef13bf.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\4x4.jpg4x4](media/f5ec97dd4cf85401514285cac60629ae.jpeg)   Step 2  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第二部分步骤1.jpg1_第二部分步骤1](media/f31c36cbdbad26cd0fb5f93783f32bc9.jpeg)    ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第二部分步骤1完成.jpg1_第二部分步骤1完成](media/47e1b818bd25df763e95a576b2abe29e.jpeg)   ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第二部分步骤2.jpg1_第二部分步骤2](media/98a186ade0538db4c6c6720b588d98df.jpeg) ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第二部分完成.jpg1_第二部分完成](media/ad38b2a435713c28f1648bc5720346e1.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Part 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|    Required parts：                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分.jpg1_第三部分](media/b64370ff68f9fa71f70c46351313c61b.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Step 1 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分步骤1.jpg1_第三部分步骤1](media/70cfcf56d3595d6c3df41e64304f053d.jpeg) ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分步骤1完成.jpg1_第三部分步骤1完成](media/8a16b54a9ea5133a449fe02b197176e0.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Step 2 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分步骤2.jpg1_第三部分步骤2](media/c2943f7bef2294e7d96679e8dfcdebe0.jpeg)   ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分步骤2完成.jpg1_第三部分步骤2完成](media/8d0982083966a71b929df559c38ec7a8.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Step 3 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分步骤3.jpg1_第三部分步骤3](media/b3289552806c743dcdfc08d0d9d3dbf7.jpeg)  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分步骤3完成.jpg1_第三部分步骤3完成](media/0294f8fd58f9b5bcb891b36856529ac2.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Step 4 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分步骤4.jpg1_第三部分步骤4](media/d54b29c48f1d874b7a4d82390d8f4cda.jpeg) ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第三部分步骤4完成.jpg1_第三部分步骤4完成](media/0aa8385a480a04c4c41d1b6fef3ef7af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Part 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|    Required parts：                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | ![电子秤](media/2ab7530a542b1e20db8750f8359692a8.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|    Step 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\LED.jpgLED](media/3472c265679d2b2982769e4deb28578d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Step 2 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第四部分步骤1.jpg1_第四部分步骤1](media/878b82bf0d124eb01a79547a5aa8fa76.jpeg)  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第四部分步骤1完成.jpg1_第四部分步骤1完成](media/18ebdf71cf216b3fa592c0854df97dbd.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Step 3 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第四部分步骤2.jpg1_第四部分步骤2](media/6eb624039894f2665e417cc38c914019.jpeg)  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第四部分步骤2完成.jpg1_第四部分步骤2完成](media/b65b849bbc9e0226ca259a26a8f70fbc.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Step 4 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第四部分步骤3.jpg1_第四部分步骤3](media/aedb59cc31af6ba715f899a89d518636.jpeg)  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第四部分步骤3完成.jpg1_第四部分步骤3完成](media/b7e16c36c2d4365bd6c2db1e9fc2b793.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Step 5 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第四部分步骤4.jpg1_第四部分步骤4](media/ffeb29a00c2dbaf5d029619041ac5a5e.jpeg) ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第四部分完成.jpg1_第四部分完成](media/8bd9ddf566232fd4047036e10023acb9.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Part 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Gently insert the slot                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|    Required parts：                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分.jpg1_第五部分](media/8feda676c6c43f52251aede5fd8969e0.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Step 1 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤1.jpg1_第五部分步骤1](media/fa9b30fa085432757e34fab2d696646d.jpeg) ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤1完成.jpg1_第五部分步骤1完成](media/80217397b1609f77308f010c253f85bc.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Step 2 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤2.jpg1_第五部分步骤2](media/94d58b10cdfaf2a533bb5e70d3574bab.jpeg)    ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤2完成.jpg1_第五部分步骤2完成](media/7953e7fe959407d70696e346fa87ecad.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Step 3 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤3.jpg1_第五部分步骤3](media/42bbd52519feea6f51957ab98ebae708.jpeg)   ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤3完成.jpg1_第五部分步骤3完成](media/087309bc1dd75b251556af7f2b74b20f.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Step 4 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤4.jpg1_第五部分步骤4](media/06f6abacc530e634f66359fe2f759a86.jpeg)    ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤4完成.jpg1_第五部分步骤4完成](media/56e44450b6bbd7787ed6e4998b8dabb6.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Step 5 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分步骤5.jpg1_第五部分步骤5](media/a68d8fd0088b2e4323f357f681485e61.jpeg)  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第五部分完成.jpg1_第五部分完成](media/c1a10bfb5c29b1024d79905f4c05027f.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Part 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Wiring Diagram                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\矢量图\\SCALE.pngSCALE](media/45e9afda93d3cc9c6062361955463151.png)                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| LED Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\矢量图\\LED.jpgLED](media/f1110557cec14c3bfeab0d16fba71ad2.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\LED接线-1.jpgLED接线-1](media/dc837bceabf28ece96265cb5607d5a07.jpeg)                                                                                                                                                                                                                                                                                     |
+| Weighing Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\矢量图\\称重.jpg称重](media/1bfdafa585ef38e41c43f4f5ac3410be.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\称重.jpg称重](media/e6662da36bb0bda6a932864ea444c613.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\称重模块接线-1.jpg称重模块接线-1](media/c90f464266e8759d08da5ba814bd0467.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\称重传感器接线-1.jpg称重传感器接线-1](media/4574becd0dd62b334403cd1a6817ef94.jpeg) |
+| Clock Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\矢量图\\ds3231.pngds3231](media/8f90ea55220ed90c682bb7ea32a8c6f2.png)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\时钟-2.jpg时钟-2](media/e541a374d75d2ffad90bd379e23f0a59.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\时钟模块接线-1.jpg时钟模块接线-1](media/a52d605ad404bbd07b2c26cda7badaf9.jpeg)                                                                                                                                          |
+| Power Amplifier Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\矢量图\\buzzer.pngbuzzer](media/3ae5bcb4d31ab11206fd8dffabab68c6.png)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\功放-2.jpg功放-2](media/65d684f71dc60fe6d9eae1486e7e5168.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\功放接线-1.jpg功放接线-1](media/124775f01801b94b56a76885169a4237.jpeg)                                                                                                                                                  |
+| 1602 LCD Display Module                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\矢量图\\1602.png1602](media/68a8135c45b91347b89d2a2cbf4cc2d5.png)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\液晶屏-2.jpg液晶屏-2](media/21965bd109c798deea202ccaba8ca64e.jpeg)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\液晶屏接线-1.jpg液晶屏接线-1](media/48db3d0d2f0dcbc5e6ec94b027d6c298.jpeg)                                                                                                                                              |
+| 4\*4 Membrane Keypad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\矢量图\\keypad.pngkeypad](media/638d76cdebaeeea125f4c038a5150289.png)![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\4x4接线-1.jpg4x4接线-1](media/23f7ef082ff745c12274e86fa4dc470b.jpeg)                                                                                                                                                                                                                                                                                |
+| Battery Holder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\电池盒-1.jpg电池盒-1](media/d2760c0cd5d6b20e0d6a7d40bc546048.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Part 7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|     Required Parts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | ![电子秤3](media/e36e8e6ecb038f410b630ed9dffe1706.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|  Step 1 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第六部分步骤1.jpg1_第六部分步骤1](media/4e9e11c300379c761a44d8dc2a173748.jpeg)   ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第六部分步骤1完成.jpg1_第六部分步骤1完成](media/4125dbcd693839cb021c5482f6986ff3.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Step 2 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第六部分步骤2.jpg1_第六部分步骤2](media/861ef3a5f5fb4c2fe47b64192c68eb7c.jpeg)   ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第六部分步骤2完成.jpg1_第六部分步骤2完成](media/bb6043e679bdf06ec0bfe68f9f272d0b.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Step 3 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\第六部分步骤3-1.jpg第六部分步骤3-1](media/d3ff8a3269a41acb2f09685bb8f7229f.jpeg)    ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\第六部分步骤3-2.jpg第六部分步骤3-2](media/52cbf542ec97ef051364de46f722ec09.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Step 4 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\第六部分步骤3-3.jpg第六部分步骤3-3](media/59a9b67a353f441e53b1bdff73df73b4.jpeg)  ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第六部分步骤3完成.jpg1_第六部分步骤3完成](media/0154822b53cd70658dda5819ce7559e2.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Part 5 ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_第六部分步骤4.jpg1_第六部分步骤4](media/1a67aa3773b757ce6ef926b8304832a3.jpeg)    ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\电子秤图片\\1_总装图.jpg1_总装图](media/f1fba7feafb51a9c7e8de2b9e5fa5090.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ![C:\\Users\\Admin\\Desktop\\电子秤套装2.0\\安装步骤\\接线图\\整机.jpg整机](media/11af508d9df2f0819fa46bc5eeddd5a7.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+
+## Project 8 HX711 Weighing Module & YZC-131 Weighing Sensor
+
+### Description：
+
+In terms of principles, the electronic scale calculates how much magnitude of
+the force is when metal is under stress, and foil gauge is commonly used to
+measured shape changes of metal.
+
+HX711 is a 24-bit A/D converter chip designed for high precision weighing
+sensor.
+
+Compared with other type chips, it integrates stabilized voltage supply, clock
+oscillator as well as the peripheral circuit, and features high integration,
+quick response and anti-interference.
+
+It reduces the overall cost of electronic scale but improve the performance and
+reliability.
+
+As simple as the MCU chip, its control signals are controlled by pins and it
+seldom programs the inner register of chip. Also,connected to the programmable
+amplifier,the input selective switch is either channel A or channel B
+
+The programmable gain of channel A is 128 or 64 and its corresponding
+differential input signals are ±20mV or ±40mV.
+
+However, used to system parameter detection, programmable gain of channel B is
+32.
+
+The stabilized voltage supply provided by chip can supply power for external
+sensor and A/D converter inside chip, thus, there is no need the analog power on
+the board.
+
+In addition, the clock oscillator doesn’t need any external parts.
+
+### Specification：
+
+**1.** 5kg sensor full-scale output voltage= VDC\*sensitivity 1.0mv/v，for
+example：power supply 5v multiplies sensitivity 1.0mv/v to get full- scale 5mv.
+That means 5Kg gravity produces 5mV.
+
+1.  711 module takes samples for produced 5mV
+
+The pin A of 711 module has 128 times amplification coefficient which can make
+5mV amplify 128 times and output the conversion value of 24bit AD. In addition.
+MCU can read the data of 24bit through sequential appointed
+
+1.  Working Voltage: DC 5V, high precision, low cost
+
+### Component：
+
+| Keyestudio Main Board\*1                                                                                                                                            | YZC-131 Micro Weighing Sensor                                                    | Keyestudio HX711 Weighing Module \*1                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](media/b8160daa2fb2665c9438a45760dbb61f.png)                                                                                                                     | ![](media/6092f0c40b8ee1bad39c83f1ba4bb221.png)                                  | ![](media/d846155f6aa6e034a1c65acd333d5b85.png)                                                                                                                                     |
+| USB Cable\*1                                                                                                                                                        | 20cm 26AWG 4pin-1pin Black/Green/Blue/Red F-F Dupont Line                        | 4\*4 Membrane Keypad\*1                                                                                                                                                             |
+| ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                | ![C:\\Users\\Admin\\Desktop\\2.png2](media/eec2a7b81c4840136e607dfe8939434e.png) | ![矩阵按键](media/8ab1dc5e902cc9871525f6d2b584189b.jpeg)                                                                                                                            |
+| M2 Balance Wight 50g                                                                                                                                                | Keyestudio I2C1602 LCD Display                                                   | 15cm 8P M-F 26AWG Dupont Line                                                                                                                                                       |
+| ![](media/162e2ca2cb0229e07df3e8a8cdf26644.png)                                                                                                                     | ![液晶屏](media/960f7b887fc80426b1a5a4744519275d.jpeg)                           | ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\8pin 红黄绿棕蓝紫白黑 150mm（1）.png8pin 红黄绿棕蓝紫白黑 150mm（1）](media/bf19eeab364f6ca14d46faa6d7c49003.png) |
+| 15cm 8P M-F 26AWG Dupont Line                                                                                                                                       |                                                                                  |                                                                                                                                                                                     |
+| ![C:\\Users\\Admin\\Desktop\\KS0078 旅行房车机器人安装步骤\\模块\\4pin 黑红蓝绿 200mm（1）.png4pin 黑红蓝绿 200mm（1）](media/4de60c3b32470ba75de2c6d2b39dfabb.png) |                                                                                  |                                                                                                                                                                                     |
+
+### Wiring Diagram：
+
+Note：
+
+1.  VCC is random value in 2.6-5.5. We need to use 5V power supply and GND is
+    grounded because Arduino is used in the project.
+
+2.  2\. SCK and DT are respectively connected to Pin 12 and Pin 13 of Arduino.
+    You can change them in the code
+
+3.  3\. E+, E-, A+ and A- of HX711 weighing module are interfaced with E+, E- ,
+    A+ and A- of bridge sensor.
+
+4.  B+ and B- are connected to B of sensor.
+
+5.  You can test power voltage through voltage-dividing circuit.
+
+![HX711](media/23b93a955c3730589ba64f25e5fd36e0.png)
+
+### Test Code：
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**Lesson_8.1**
+
+**HX711**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#include \<Keypad.h\>**
+
+**\#include \<HX711.h\>**
+
+**\#include \<EEPROM.h\>**
+
+**\#include \<math.h\>**
+
+**\#include \<Wire.h\>**
+
+**\#include \<LiquidCrystal_I2C.h\>**
+
+**LiquidCrystal_I2C lcd(0x27, 16, 2);**
+
+**HX711 hx(12, 13, 128);**
+
+**const byte ROWS = 4; //four rows**
+
+**const byte COLS = 4; //four columns**
+
+**char keypressed; //used to receive key values**
+
+**//define the cymbols on the buttons of the keypads**
+
+**char keyMap[ROWS][COLS] = {**
+
+**{'1', '2', '3', 'A'},**
+
+**{'4', '5', '6', 'B'},**
+
+**{'7', '8', '9', 'C'},**
+
+**{'\*', '0', '\#', 'D'}**
+
+**};**
+
+**byte rowPins[ROWS] = {2, 3, 4, 5}; //Row pinouts of the keypad**
+
+**byte colPins[COLS] = {6, 7, 8, 9}; //Column pinouts of the keypad**
+
+**Keypad myKeypad = Keypad( makeKeymap(keyMap), rowPins, colPins, ROWS, COLS);**
+
+**double ratio, offset;//define two variables, ratio is scale coefficient**
+
+**boolean KE, KF; //press flag**
+
+**void setup() {**
+
+**// put your setup code here, to run once:**
+
+**lcd.init(); // initialize LCD**
+
+**lcd.backlight(); //set the backlight of LCD to on**
+
+**//set the read offset**
+
+**lcd.init();**
+
+**lcd.print("Welcome! HX711"); //show start page**
+
+**delay(2000);**
+
+**EEPROM.get(0, ratio);**
+
+**//EEPROM.get(8, offset); // read the offset from EEPROM**
+
+**offset = hx.tare();**
+
+**hx.set_offset(offset);**
+
+**lcd.clear();**
+
+**lcd.setCursor(0, 0);**
+
+**lcd.print("Weight: ");**
+
+**lcd.setCursor(15, 0);**
+
+**lcd.print("g");**
+
+**}**
+
+**void loop() {**
+
+**//press key to get key value place the corresponding flag on 1**
+
+**keypressed = myKeypad.getKey();**
+
+**if (keypressed != NO_KEY) {**
+
+**if (keypressed == '\*') {**
+
+**KE = 1;**
+
+**}else if (keypressed == '\#') {**
+
+**KF = 1;**
+
+**}**
+
+**}**
+
+**if (KE == 1) { //press \* to calibrate**
+
+**KE = 0;**
+
+**calibrate(); //The screen shows that 50g balance wight should be put on. After
+a while, release the key and wait for calibration, then enter the weighing page
+and show 50g.The error can be within 1g**
+
+**}**
+
+**if (KF == 1) { //press \# to deduct tare. The screen will show 0, if 0 doesn't
+appear on screen**
+
+**KF = 0;**
+
+**offset = hx.tare(); // subtract tare and read the offset**
+
+**hx.set_offset(offset); // set the read offset**
+
+**//EEPROM.put(8, offset);**
+
+**}**
+
+**double sum = 0;**
+
+**char sbuff[6];**
+
+**sum = hx.bias_read() \* ratio;**
+
+**sprintf(sbuff, "%6d", (long)sum);**
+
+**lcd.setCursor(8, 0);**
+
+**lcd.print(sbuff);  //show the read weight**
+
+**delay(100);**
+
+**}**
+
+**void calibrate() {**
+
+**lcd.clear();**
+
+**double sum = 0;**
+
+**for (int i = 0; i \< 10; i++) {**
+
+**sum += hx.bias_read();**
+
+**}**
+
+**sum = sum / 10;**
+
+**lcd.clear();**
+
+**lcd.print("PUT ON 50g Farmar");**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print("9 seconds later");**
+
+**int countdown = 9;**
+
+**while (countdown != 0) {**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print(countdown);**
+
+**countdown--;**
+
+**delay(1000);**
+
+**}**
+
+**double sum1 = 0;**
+
+**for (int i = 0; i \< 10; i++) {**
+
+**sum1 += hx.bias_read();**
+
+**}**
+
+**sum1 = sum1 / 10;**
+
+**ratio = abs(sum1 - sum);**
+
+**ratio = 50 / ratio;**
+
+**EEPROM.put(0, ratio);//save coefficient which needs compiling via above 1.6.0
+IDE**
+
+**lcd.clear();**
+
+**lcd.print("CAL OK!");**
+
+**// set the read offset**
+
+**lcd.init();**
+
+**lcd.print("Welcome! HX711"); //show the activation page**
+
+**delay(2000);**
+
+**EEPROM.get(0, ratio);**
+
+**//EEPROM.get(8, offset); // read offset from EEPROM**
+
+**offset = hx.tare();**
+
+**hx.set_offset(offset);**
+
+**lcd.clear();**
+
+**lcd.setCursor(0, 0);**
+
+**lcd.print("Weight: ");**
+
+**lcd.setCursor(15, 0);**
+
+**lcd.print("g");**
+
+**}**
+
+### Test Result：
+
+Upload code. The 1602 display module will show weight. You can put a 50g balance
+weight on the scale and press \* key to calibrate. After calibration, press \#
+to subtract tare.
+
+## Project 9 Multi-purpose Electronic Scale
+
+### Description：
+
+In the previous projects, we’ve learned numerous sensors and modules.
+
+In the final lesson, we will sum up the comprehensive features of electronic
+scale.
+
+### Flow Chart：
+
+### (3) Wiring Diagram
+
+![SCALE](media/2b4878d0843235435b62647c905fb5ae.png)
+
+### (4) Test Code
+
+**/\***
+
+**keyestudio Electronic scale**
+
+**Lesson_9**
+
+**Electronic scale**
+
+**http://www.keyestudio.com**
+
+**\*/**
+
+**\#include \<Keypad.h\>**
+
+**\#include \<DS3231.h\>**
+
+**\#include \<HX711.h\>**
+
+**\#include \<EEPROM.h\>**
+
+**\#include \<math.h\>**
+
+**\#include \<Wire.h\>**
+
+**\#include \<LiquidCrystal_I2C.h\>**
+
+**LiquidCrystal_I2C lcd(0x27, 16, 2);**
+
+**DS3231 clock;**
+
+**HX711 hx(12, 13, 128);**
+
+**double ratio, offset;//define two variables, ratio is scalefactor,**
+
+**double weight = 0, P = 0, M = 0, D = 0;**
+
+**int P1, P2, P3, P4, D1, D2, D3, D4, N;**
+
+**//The two LEDs are connected to D10 and D11**
+
+**const int LED1 = 10;**
+
+**const int LED2 = 11;**
+
+**bool century = false;**
+
+**bool h12Flag;**
+
+**bool pmFlag;**
+
+**byte alarmDay, alarmHour1, alarmMinute1, alarmSecond1, alarmBits = 0x48;**
+
+**byte alarmHour2, alarmMinute2;**
+
+**bool alarmDy = false, alarmH12Flag = false, alarmPmFlag = false;**
+
+**const byte ROWS = 4; //four rows**
+
+**const byte COLS = 4; //four columns**
+
+**char keypressed; //used to receive the key vlaue**
+
+**float key_num;  //press keys to show numbers**
+
+**//define the cymbols on the buttons of the keypads**
+
+**char keyMap[ROWS][COLS] = {**
+
+**{'1', '2', '3', 'A'},**
+
+**{'4', '5', '6', 'B'},**
+
+**{'7', '8', '9', 'C'},**
+
+**{'\*', '0', '\#', 'D'}**
+
+**};**
+
+**byte rowPins[ROWS] = {2, 3, 4, 5}; //Row pinouts of the keypad**
+
+**byte colPins[COLS] = {6, 7, 8, 9}; //Column pinouts of the keypad**
+
+**Keypad myKeypad = Keypad( makeKeymap(keyMap), rowPins, colPins, ROWS, COLS);**
+
+**const int buzzer = A0;**
+
+**byte row_k = 0, col_k = 0, page = 0;**
+
+**//bool change_flag = false;**
+
+**boolean K0, K1, K2, K3, K4, K5, K6, K7, K8, K9, KA, KB, KC, KD, KE, KF; //key
+flag**
+
+**byte year, month, date, hour, minute, second, week;**
+
+**int y1, y2, mon1, mon2, d1, d2, h1, h2, min1, min2, s1, s2;**
+
+**int alarm_h1, alarm_h2, alarm_m1, alarm_m2, alarm_s1, alarm_s2;**
+
+**int alarm_hh1, alarm_hh2, alarm_mm1, alarm_mm2;**
+
+**bool BC_flag; //false selective value plus 1, true sselective value subtracts
+1**
+
+**bool scale_flag = false; //false is pricing scale,true is counting scale is
+counting scale**
+
+**void setup() {**
+
+**pinMode(LED1, OUTPUT);**
+
+**pinMode(LED2, OUTPUT);**
+
+**lcd.init(); // initialize LCD**
+
+**lcd.backlight(); //set the backlight of LCD on**
+
+**// Start the I2C interface**
+
+**Wire.begin();**
+
+**// Start the serial interface**
+
+**Serial.begin(57600);**
+
+**}**
+
+**void loop() {**
+
+**/\* press 'D' key to switch page**
+
+**when page is 0,display data and page**
+
+**when page is 1, show the page of alarm and setting**
+
+**when page is 2, show the page of electronic scale and setting page**
+
+**\*/**
+
+**if (page == 0) {**
+
+**showDatePage();**
+
+**}**
+
+**else if (page == 1) {**
+
+**showAlarmPage();**
+
+**}**
+
+**else if (page == 2) {**
+
+**showScalePage();**
+
+**}**
+
+**}**
+
+**/\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*Subprogram\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/**
+
+**void showDatePage(void) {**
+
+**lcd.clear();**
+
+**lcd.setCursor(0, 0);**
+
+**lcd.print("2");**
+
+**lcd.setCursor(1, 0);**
+
+**if (century) {**
+
+**lcd.print("1");**
+
+**} else {**
+
+**lcd.print("0");**
+
+**}**
+
+**while (true) {**
+
+**alarm(); //detect alarm**
+
+**showDate(); //show date**
+
+**enter(); //input**
+
+**if (KA == 1) //time delayed, move cursor**
+
+**{**
+
+**KA = 0;  //key flag, clear 0**
+
+**while (true) {**
+
+**enter(); //input**
+
+**if (KA == 1) {**
+
+**KA = 0;**
+
+**row_k += 1;**
+
+**if (row_k \> 15) {**
+
+**row_k = 0;**
+
+**col_k += 1;**
+
+**if (col_k \> 1) {**
+
+**col_k = 0;**
+
+**}**
+
+**}**
+
+**}**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.blink();**
+
+**if (KB == 1) {  // the value plus 1**
+
+**KB = 0;  //key flag, clear 0**
+
+**BC_flag = false;**
+
+**if (col_k == 0) { //the first row**
+
+**changeOne();**
+
+**} else {**
+
+**changeTwo(); //the second row**
+
+**}**
+
+**}**
+
+**if (KC == 1) {  //the vlaue subtracts 1**
+
+**KC = 0;  //key flag, clear 0**
+
+**BC_flag = true;**
+
+**if (col_k == 0) { //the first row**
+
+**changeOne();**
+
+**} else {**
+
+**changeTwo(); //the second row**
+
+**}**
+
+**}**
+
+**if (KF == 1) {**
+
+**KF = 0;  //key flag, clear 0**
+
+**setTime();**
+
+**break;**
+
+**}**
+
+**}**
+
+**KD = 0; //D is invalid before exiting**
+
+**}**
+
+**if (KD == 1) {**
+
+**KD = 0;**
+
+**page = 1;**
+
+**break;**
+
+**}**
+
+**}**
+
+**}**
+
+**void showDate() {**
+
+**// send what's going on to the LCD1602.**
+
+**lcd.setCursor(2, 0);**
+
+**year = clock.getYear();**
+
+**y1 = year / 10;**
+
+**y2 = year % 10;**
+
+**if (year \< 10) {**
+
+**lcd.setCursor(2, 0);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(3, 0);**
+
+**lcd.print(year);**
+
+**} else {**
+
+**lcd.setCursor(2, 0);**
+
+**lcd.print(year);**
+
+**}**
+
+**lcd.setCursor(4, 0);**
+
+**lcd.print("-");**
+
+**// then the month**
+
+**month = clock.getMonth(century);**
+
+**mon1 = month / 10;**
+
+**mon2 = month % 10;**
+
+**if (month \< 10) {**
+
+**lcd.setCursor(5, 0);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(6, 0);**
+
+**lcd.print(month);**
+
+**} else {**
+
+**lcd.setCursor(5, 0);**
+
+**lcd.print(month);**
+
+**}**
+
+**lcd.setCursor(7, 0);**
+
+**lcd.print("-");**
+
+**// then the date**
+
+**date = clock.getDate();**
+
+**d1 = date / 10;**
+
+**d2 = date % 10;**
+
+**if (date \< 10) {**
+
+**lcd.setCursor(8, 0);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(9, 0);**
+
+**lcd.print(date);**
+
+**} else {**
+
+**lcd.setCursor(8, 0);**
+
+**lcd.print(date);**
+
+**}**
+
+**lcd.setCursor(10, 0);**
+
+**lcd.print(" ");**
+
+**// and the day of the week**
+
+**week = clock.getDoW();**
+
+**lcd.setCursor(11, 0);**
+
+**lcd.print("Week");**
+
+**lcd.setCursor(15, 0);**
+
+**lcd.print(week);**
+
+**// Finally the hour, minute, and second**
+
+**hour = clock.getHour(h12Flag, pmFlag);**
+
+**h1 = hour / 10;**
+
+**h2 = hour % 10;**
+
+**if (hour \< 10) {**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(1, 1);**
+
+**lcd.print(hour);**
+
+**} else {**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print(hour);**
+
+**}**
+
+**lcd.setCursor(2, 1);**
+
+**lcd.print(":");**
+
+**minute = clock.getMinute();**
+
+**min1 = minute / 10;**
+
+**min2 = minute % 10;**
+
+**if (minute \< 10) {**
+
+**lcd.setCursor(3, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(4, 1);**
+
+**lcd.print(minute);**
+
+**} else {**
+
+**lcd.setCursor(3, 1);**
+
+**lcd.print(minute);**
+
+**}**
+
+**lcd.setCursor(5, 1);**
+
+**lcd.print(":");**
+
+**second = clock.getSecond();**
+
+**s1 = second / 10;**
+
+**s2 = second % 10;**
+
+**if (second \< 10) {**
+
+**lcd.setCursor(6, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(7, 1);**
+
+**lcd.print(second);**
+
+**} else {**
+
+**lcd.setCursor(6, 1);**
+
+**lcd.print(second);**
+
+**}**
+
+**lcd.setCursor(8, 1);**
+
+**lcd.print(" ");**
+
+**// Display the temperature**
+
+**if (clock.getTemperature() \< 10) {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(" ");**
+
+**lcd.setCursor(12, 1);**
+
+**lcd.print(clock.getTemperature(), 1);**
+
+**} else {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(clock.getTemperature(), 1);**
+
+**}**
+
+**lcd.setCursor(15, 1);**
+
+**lcd.print("C");**
+
+**}**
+
+**void showAlarmPage(void) {**
+
+**lcd.clear();**
+
+**while (true) {**
+
+**showAlarmStatus(); //display the status of alarm**
+
+**enter();**
+
+**KB = 0;  //B is invalid before A is pressed**
+
+**KC = 0; //C is invalid before A is pressed**
+
+**if (KA == 1) // check alarm, move cursor**
+
+**{**
+
+**KA = 0;**
+
+**row_k = 9;**
+
+**col_k = 0;**
+
+**while (true) {**
+
+**enter();**
+
+**if (KA == 1) {**
+
+**KA = 0;**
+
+**col_k += 1;**
+
+**if (col_k \> 1) {**
+
+**col_k = 0;**
+
+**}**
+
+**}**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.blink();**
+
+**if (KB == 1) {**
+
+**KB = 0;**
+
+**switch (col_k) {**
+
+**case 0:**
+
+**showAlarm1();**
+
+**row_k = 4;**
+
+**col_k = 1;**
+
+**while (true) {**
+
+**enter();**
+
+**if (KA == 1) {**
+
+**KA = 0;**
+
+**row_k += 1;**
+
+**if (row_k \> 11) {**
+
+**row_k = 4;**
+
+**}**
+
+**}**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.blink();**
+
+**if (KB == 1) {**
+
+**KB = 0;**
+
+**BC_flag = false;**
+
+**changeAlarmOne();**
+
+**}**
+
+**if (KC == 1) {**
+
+**KC = 0;**
+
+**BC_flag = true;**
+
+**changeAlarmOne();**
+
+**}**
+
+**if (KF == 1) {**
+
+**KF = 0;**
+
+**clock.turnOnAlarm(1);**
+
+**//alarm1Flag = true;**
+
+**break;**
+
+**}**
+
+**}**
+
+**row_k = 9;**
+
+**col_k = 0;**
+
+**lcd.clear();**
+
+**showAlarmStatus();**
+
+**break;**
+
+**case 1:**
+
+**showAlarm2();**
+
+**row_k = 4;**
+
+**col_k = 1;**
+
+**while (true) {**
+
+**enter();**
+
+**if (KA == 1) {**
+
+**KA = 0;**
+
+**row_k += 1;**
+
+**if (row_k \> 8) {**
+
+**row_k = 4;**
+
+**}**
+
+**}**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.blink();**
+
+**if (KB == 1) {**
+
+**KB = 0;**
+
+**BC_flag = false;**
+
+**changeAlarmTwo();**
+
+**}**
+
+**if (KC == 1) {**
+
+**KC = 0;**
+
+**BC_flag = true;**
+
+**changeAlarmTwo();**
+
+**}**
+
+**if (KF == 1) {**
+
+**KF = 0;**
+
+**clock.turnOnAlarm(2);**
+
+**//alarm2Flag = true;**
+
+**break;**
+
+**}**
+
+**}**
+
+**row_k = 9;**
+
+**col_k = 0;**
+
+**lcd.clear();**
+
+**showAlarmStatus();**
+
+**break;**
+
+**default: break;**
+
+**}**
+
+**}**
+
+**if (KC == 1) {**
+
+**KC = 0;**
+
+**switch (col_k) {**
+
+**case 0:**
+
+**clock.turnOffAlarm(1);**
+
+**row_k = 9;**
+
+**col_k = 0;**
+
+**//lcd.clear();**
+
+**showAlarmStatus();**
+
+**break;**
+
+**case 1:**
+
+**clock.turnOffAlarm(2);**
+
+**row_k = 9;**
+
+**col_k = 1;**
+
+**//lcd.clear();**
+
+**showAlarmStatus();**
+
+**break;**
+
+**default: break;**
+
+**}**
+
+**}**
+
+**if (KF == 1) {**
+
+**KF = 0;**
+
+**break;**
+
+**}**
+
+**}**
+
+**KD = 0; //D is invalid before \# is pressed**
+
+**}**
+
+**if (KD == 1) {**
+
+**KD = 0;**
+
+**break;**
+
+**}**
+
+**page = 2;**
+
+**}**
+
+**}**
+
+**void showAlarmStatus() {**
+
+**lcd.setCursor(0, 0);**
+
+**lcd.print("Alarm 1:");**
+
+**if (clock.checkAlarmEnabled(1)) {**
+
+**lcd.setCursor(9, 0);**
+
+**lcd.print("Y");**
+
+**} else {**
+
+**lcd.setCursor(9, 0);**
+
+**lcd.print("N");**
+
+**}**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print("Alarm 2:");**
+
+**if (clock.checkAlarmEnabled(2)) {**
+
+**lcd.setCursor(9, 1);**
+
+**lcd.print("Y");**
+
+**} else {**
+
+**lcd.setCursor(9, 1);**
+
+**lcd.print("N");**
+
+**}**
+
+**}**
+
+**void showAlarm1() {**
+
+**clock.getA1Time(alarmDay, alarmHour1, alarmMinute1, alarmSecond1, alarmBits,
+alarmDy, alarmH12Flag, alarmPmFlag);**
+
+**lcd.clear();**
+
+**lcd.setCursor(0, 0);**
+
+**lcd.print(" Set Alarm 1 ");**
+
+**alarm_h1 = alarmHour1 / 10;**
+
+**alarm_h2 = alarmHour1 % 10;**
+
+**if (alarmHour1 \< 10) {**
+
+**lcd.setCursor(4, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(5, 1);**
+
+**lcd.print(alarmHour1);**
+
+**} else {**
+
+**lcd.setCursor(4, 1);**
+
+**lcd.print(alarmHour1);**
+
+**}**
+
+**lcd.setCursor(6, 1);**
+
+**lcd.print(":");**
+
+**alarm_m1 = alarmMinute1 / 10;**
+
+**alarm_m2 = alarmMinute1 % 10;**
+
+**if (alarmMinute1 \< 10) {**
+
+**lcd.setCursor(7, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(8, 1);**
+
+**lcd.print(alarmMinute1);**
+
+**} else {**
+
+**lcd.setCursor(7, 1);**
+
+**lcd.print(alarmMinute1);**
+
+**}**
+
+**lcd.setCursor(9, 1);**
+
+**lcd.print(":");**
+
+**alarm_s1 = alarmSecond1 / 10;**
+
+**alarm_s2 = alarmSecond1 % 10;**
+
+**if (alarmSecond1 \< 10) {**
+
+**lcd.setCursor(10, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(alarmSecond1);**
+
+**} else {**
+
+**lcd.setCursor(10, 1);**
+
+**lcd.print(alarmSecond1);**
+
+**}**
+
+**}**
+
+**void showAlarm2() {**
+
+**clock.getA2Time(alarmDay, alarmHour2, alarmMinute2, alarmBits, alarmDy,
+alarmH12Flag, alarmPmFlag);**
+
+**lcd.clear();**
+
+**lcd.setCursor(0, 0);**
+
+**lcd.print(" Set Alarm 2 ");**
+
+**alarm_hh1 = alarmHour2 / 10;**
+
+**alarm_hh2 = alarmHour2 % 10;**
+
+**if (alarmHour2 \< 10) {**
+
+**lcd.setCursor(4, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(5, 1);**
+
+**lcd.print(alarmHour2);**
+
+**} else {**
+
+**lcd.setCursor(4, 1);**
+
+**lcd.print(alarmHour2);**
+
+**}**
+
+**lcd.setCursor(6, 1);**
+
+**lcd.print(":");**
+
+**alarm_mm1 = alarmMinute2 / 10;**
+
+**alarm_mm2 = alarmMinute2 % 10;**
+
+**if (alarmMinute2 \< 10) {**
+
+**lcd.setCursor(7, 1);**
+
+**lcd.print("0");**
+
+**lcd.setCursor(8, 1);**
+
+**lcd.print(alarmMinute2);**
+
+**} else {**
+
+**lcd.setCursor(7, 1);**
+
+**lcd.print(alarmMinute2);**
+
+**}**
+
+**}**
+
+**void showScalePage() {**
+
+**EEPROM.get(0, ratio);**
+
+**//EEPROM.get(8, offset); // read the offset from EEPROM**
+
+**offset = hx.tare();**
+
+**hx.set_offset(offset);**
+
+**while (page == 2) {**
+
+**if (!scale_flag) {**
+
+**lcd.clear();**
+
+**while (true) {**
+
+**showScaleOne();**
+
+**enter();**
+
+**if (KA == 1) {**
+
+**KA = 0;**
+
+**row_k = 2;**
+
+**col_k = 1;**
+
+**while (true) {**
+
+**enter(); //input**
+
+**if (KA == 1) {**
+
+**KA = 0;**
+
+**row_k += 1;**
+
+**if (row_k \> 6) {**
+
+**row_k = 2;**
+
+**}**
+
+**}**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.blink();**
+
+**changeScaleOne();**
+
+**if (KF == 1) {**
+
+**KF = 0;**
+
+**break;**
+
+**}**
+
+**}**
+
+**}**
+
+**if (KD == 1) {**
+
+**KD = 0;**
+
+**page = 0;**
+
+**break;**
+
+**}**
+
+**if (KE == 1) { // press \* to calibrate**
+
+**KE = 0;**
+
+**calibrate(); //The screen shows that 50g balance wight should be put on. After
+a while, release the key and wait for calibration, then enter the weighing page
+and show 50g.The error can be within 1g**
+
+**}**
+
+**if (KF == 1) { //press \# to deduct tare. The screen will show 0, if 0 doesn't
+appear on screen**
+
+**KF = 0;**
+
+**offset = hx.tare(); // subtract tare and read the offset**
+
+**hx.set_offset(offset); // set the read offset**
+
+**//EEPROM.put(8, offset);**
+
+**}**
+
+**if (KC == 1) {**
+
+**KC = 0;**
+
+**scale_flag = !scale_flag;**
+
+**break;**
+
+**}**
+
+**}**
+
+**} else {**
+
+**lcd.clear();**
+
+**while (true) {**
+
+**showScaleTwo();**
+
+**enter();**
+
+**if (KA == 1) {**
+
+**KA = 0;**
+
+**row_k = 2;**
+
+**col_k = 1;**
+
+**while (true) {**
+
+**enter(); //input**
+
+**if (KA == 1) {**
+
+**KA = 0;**
+
+**row_k += 1;**
+
+**if (row_k \> 6) {**
+
+**row_k = 2;**
+
+**}**
+
+**}**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.blink();**
+
+**changeScaleTwo();**
+
+**if (KF == 1) {**
+
+**KF = 0;**
+
+**break;**
+
+**}**
+
+**}**
+
+**}**
+
+**if (KD == 1) {**
+
+**KD = 0;**
+
+**page = 0;**
+
+**break;**
+
+**}**
+
+**if (KE == 1) { //press \* to calibrate**
+
+**KE = 0;**
+
+**calibrate(); //The screen shows that 50g balance wight should be put on. After
+a while, release the key and wait for calibration, then enter the weighing page
+and show 50g.The error can be within 1g**
+
+**}**
+
+**if (KF == 1) { //press \# to deduct tare. The screen will show 0, if 0 doesn't
+appear on screen**
+
+**KF = 0;**
+
+**offset = hx.tare(); // subtract tare and read the offset**
+
+**hx.set_offset(offset); // set the read offset**
+
+**//EEPROM.put(8, offset);**
+
+**}**
+
+**if (KC == 1) {**
+
+**KC = 0;**
+
+**scale_flag = !scale_flag;**
+
+**break;**
+
+**}**
+
+**}**
+
+**}**
+
+**}**
+
+**}**
+
+**void showScaleOne() {**
+
+**weight = hx.bias_read() \* ratio;**
+
+**weight /= 1000.0;**
+
+**char buff1[6];**
+
+**dtostrf(weight, 6, 3, buff1);**
+
+**lcd.setCursor(4, 0);**
+
+**lcd.print(buff1);**
+
+**lcd.setCursor(10, 0);**
+
+**lcd.print("kg");**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print("P=");**
+
+**lcd.setCursor(5, 1);**
+
+**lcd.print(".");**
+
+**P1 = int(P \* 10) / 1000;**
+
+**P2 = (int(P \* 10) - P1 \* 1000) / 100;**
+
+**P3 = (int(P \* 10) - P1 \* 1000 - P2 \* 100) / 10;**
+
+**P4 = int(P \* 10) % 10;**
+
+**lcd.setCursor(2, 1);**
+
+**lcd.print(P1);**
+
+**lcd.setCursor(3, 1);**
+
+**lcd.print(P2);**
+
+**lcd.setCursor(4, 1);**
+
+**lcd.print(P3);**
+
+**lcd.setCursor(6, 1);**
+
+**lcd.print(P4);**
+
+**lcd.setCursor(8, 1);**
+
+**lcd.print("M=");**
+
+**M = weight \* P;**
+
+**char buff3[6];**
+
+**dtostrf(M, -6, 1, buff3); //right alignment**
+
+**if (M \>= 0) {**
+
+**lcd.setCursor(10, 1);**
+
+**lcd.print(buff3);**
+
+**}**
+
+**else {**
+
+**lcd.setCursor(10, 1);**
+
+**lcd.print("----.-");**
+
+**}**
+
+**}**
+
+**void showScaleTwo() {**
+
+**weight = hx.bias_read() \* ratio;**
+
+**weight /= 1000.0;**
+
+**char buff1[6];**
+
+**dtostrf(weight, 6, 3, buff1);**
+
+**lcd.setCursor(4, 0);**
+
+**lcd.print(buff1);**
+
+**lcd.setCursor(10, 0);**
+
+**lcd.print("kg");**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print("D=");**
+
+**lcd.setCursor(5, 1);**
+
+**lcd.print(".");**
+
+**D1 = int(D \* 10) / 1000;**
+
+**D2 = (int(D \* 10) - D1 \* 1000) / 100;**
+
+**D3 = (int(D \* 10) - D1 \* 1000 - D2 \* 100) / 10;**
+
+**D4 = int(D \* 10) % 10;**
+
+**lcd.setCursor(2, 1);**
+
+**lcd.print(D1);**
+
+**lcd.setCursor(3, 1);**
+
+**lcd.print(D2);**
+
+**lcd.setCursor(4, 1);**
+
+**lcd.print(D3);**
+
+**lcd.setCursor(6, 1);**
+
+**lcd.print(D4);**
+
+**lcd.setCursor(9, 1);**
+
+**lcd.print("N=");**
+
+**N = weight \* 1000 / D;**
+
+**if (N \>= 0) {**
+
+**if (N \< 10) {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(N);**
+
+**lcd.setCursor(12, 1);**
+
+**lcd.print(" ");**
+
+**} else if (N \< 100) {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(N);**
+
+**lcd.setCursor(13, 1);**
+
+**lcd.print(" ");**
+
+**} else if (N \< 1000) {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(N);**
+
+**lcd.setCursor(14, 1);**
+
+**lcd.print(" ");**
+
+**}**
+
+**else if (N \< 10000) {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(N);**
+
+**lcd.setCursor(15, 1);**
+
+**lcd.print(" ");**
+
+**} else {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print(N);**
+
+**}**
+
+**}**
+
+**else {**
+
+**lcd.setCursor(11, 1);**
+
+**lcd.print("-----");**
+
+**}**
+
+**}**
+
+**void changeScaleOne() {**
+
+**if (keypressed == '0' \|\| keypressed == '1' \|\| keypressed == '2' \|\|
+keypressed == '3' \|\|**
+
+**keypressed == '4' \|\| keypressed == '5' \|\| keypressed == '6' \|\|
+keypressed == '7' \|\|**
+
+**keypressed == '8' \|\| keypressed == '9' ) {**
+
+**key_num = keypressed - '0';**
+
+**switch (row_k) {**
+
+**case 2:**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(keypressed);**
+
+**P = P - P1 \* 100 + key_num \* 100;**
+
+**break;**
+
+**case 3:**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(keypressed);**
+
+**P = P - P2 \* 10 + key_num \* 10;**
+
+**break;**
+
+**case 4:**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(keypressed);**
+
+**P = P - P3 + key_num;**
+
+**break;**
+
+**case 6:**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(keypressed);**
+
+**P = P - float(P4) / 10 + key_num / 10;**
+
+**break;**
+
+**default : break;**
+
+**}**
+
+**}**
+
+**}**
+
+**void changeScaleTwo() {**
+
+**if (keypressed == '0' \|\| keypressed == '1' \|\| keypressed == '2' \|\|
+keypressed == '3' \|\|**
+
+**keypressed == '4' \|\| keypressed == '5' \|\| keypressed == '6' \|\|
+keypressed == '7' \|\|**
+
+**keypressed == '8' \|\| keypressed == '9' ) {**
+
+**key_num = keypressed - '0';**
+
+**switch (row_k) {**
+
+**case 2:**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(keypressed);**
+
+**D = D - D1 \* 100 + key_num \* 100;**
+
+**break;**
+
+**case 3:**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(keypressed);**
+
+**D = D - D2 \* 10 + key_num \* 10;**
+
+**break;**
+
+**case 4:**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(keypressed);**
+
+**D = D - D3 + key_num;**
+
+**break;**
+
+**case 6:**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(keypressed);**
+
+**D = D - float(D4) / 10 + key_num / 10;**
+
+**break;**
+
+**default : break;**
+
+**}**
+
+**}**
+
+**}**
+
+**void calibrate() {**
+
+**lcd.init(); //initialize LCD1602, avoid cursor flashing**
+
+**double sum = 0;**
+
+**for (int i = 0; i \< 10; i++) {**
+
+**sum += hx.bias_read();**
+
+**}**
+
+**sum = sum / 10;**
+
+**lcd.clear();**
+
+**lcd.print("PUT ON 50g Farmar");**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print("9 seconds later");**
+
+**int countdown = 9;**
+
+**while (countdown != 0) {**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print(countdown);**
+
+**countdown--;**
+
+**tone(buzzer, 700, 100);**
+
+**delay(1000);**
+
+**}**
+
+**lcd.setCursor(0, 1);**
+
+**lcd.print("Release key now");**
+
+**double sum1 = 0;**
+
+**for (int i = 0; i \< 10; i++) {**
+
+**sum1 += hx.bias_read();**
+
+**}**
+
+**sum1 = sum1 / 10;**
+
+**ratio = abs(sum1 - sum);**
+
+**ratio = 50 / ratio;**
+
+**EEPROM.put(0, ratio);//save coefficient which needs compiling via above 1.6.0
+IDE**
+
+**lcd.clear();**
+
+**lcd.print("CAL OK!");**
+
+**// set the read offset**
+
+**EEPROM.get(0, ratio);**
+
+**//EEPROM.get(8, offset); // read offset from EEPROM**
+
+**offset = hx.tare();**
+
+**hx.set_offset(offset);**
+
+**lcd.clear();**
+
+**}**
+
+**void changeOne() { //modify year, month, day, week at the first row**
+
+**switch (row_k) {  //select row**
+
+**case 2:**
+
+**if (!BC_flag) {**
+
+**y1 += 1;**
+
+**} else {**
+
+**y1 -= 1;**
+
+**}**
+
+**if (y1 \> 9) y1 = 0;**
+
+**if (y1 \< 0) y1 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(y1);**
+
+**year = y1 \* 10 + y2;**
+
+**break;**
+
+**case 3:**
+
+**if (!BC_flag) {**
+
+**y2 += 1;**
+
+**} else {**
+
+**y2 -= 1;**
+
+**}**
+
+**if (y2 \> 9) y2 = 0;**
+
+**if (y2 \< 0) y2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(y2);**
+
+**year = y1 \* 10 + y2;**
+
+**break;**
+
+**case 5:**
+
+**if (!BC_flag) {**
+
+**mon1 += 1;**
+
+**} else {**
+
+**mon1 -= 1;**
+
+**}**
+
+**if (mon1 \> 1) mon1 = 0;**
+
+**if (mon1 \< 0) mon1 = 1;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(mon1);**
+
+**month = mon1 \* 10 + mon2;**
+
+**break;**
+
+**case 6:**
+
+**if (!BC_flag) {**
+
+**mon2 += 1;**
+
+**} else {**
+
+**mon2 -= 1;**
+
+**}**
+
+**if (mon2 \> 9) mon2 = 0;**
+
+**if (mon2 \< 0) mon2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(mon2);**
+
+**month = mon1 \* 10 + mon2;**
+
+**break;**
+
+**case 8:**
+
+**if (!BC_flag) {**
+
+**d1 += 1;**
+
+**} else {**
+
+**d1 -= 1;**
+
+**}**
+
+**if (d1 \> 3) d1 = 0;**
+
+**if (d1 \< 0) d1 = 3;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(d1);**
+
+**date = d1 \* 10 + d2;**
+
+**break;**
+
+**case 9:**
+
+**if (!BC_flag) {**
+
+**d2 += 1;**
+
+**} else {**
+
+**d2 -= 1;**
+
+**}**
+
+**if (d2 \> 9) d2 = 0;**
+
+**if (d2 \< 0) d2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(d2);**
+
+**date = d1 \* 10 + d2;**
+
+**break;**
+
+**case 15:**
+
+**if (!BC_flag) {**
+
+**week += 1;**
+
+**} else {**
+
+**week -= 1;**
+
+**}**
+
+**if (week \> 7) week = 1;**
+
+**if (week \< 1) week = 7;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(week);**
+
+**break;**
+
+**default: break;**
+
+**}**
+
+**}**
+
+**void changeTwo() { //modify year, month, day, week at the second row**
+
+**switch (row_k) {  //select column**
+
+**case 0:**
+
+**if (!BC_flag) {**
+
+**h1 += 1;**
+
+**} else {**
+
+**h1 -= 1;**
+
+**}**
+
+**if (h1 \> 2) h1 = 0;**
+
+**if (h1 \< 0) h1 = 2;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(h1);**
+
+**hour = h1 \* 10 + h2;**
+
+**break;**
+
+**case 1:**
+
+**if (!BC_flag) {**
+
+**h2 += 1;**
+
+**} else {**
+
+**h2 -= 1;**
+
+**}**
+
+**if (h2 \> 9) h2 = 0;**
+
+**if (h2 \< 0) h2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(h2);**
+
+**hour = h1 \* 10 + h2;**
+
+**break;**
+
+**case 3:**
+
+**if (!BC_flag) {**
+
+**min1 += 1;**
+
+**} else {**
+
+**min1 -= 1;**
+
+**}**
+
+**if (min1 \> 5) min1 = 0;**
+
+**if (min1 \< 0) min1 = 5;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(min1);**
+
+**minute = min1 \* 10 + min2;**
+
+**break;**
+
+**case 4:**
+
+**if (!BC_flag) {**
+
+**min2 += 1;**
+
+**} else {**
+
+**min2 -= 1;**
+
+**}**
+
+**if (min2 \> 9) min2 = 0;**
+
+**if (min2 \< 0) min2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(min2);**
+
+**minute = min1 \* 10 + min2;**
+
+**break;**
+
+**case 6:**
+
+**if (!BC_flag) {**
+
+**s1 += 1;**
+
+**} else {**
+
+**s1 -= 1;**
+
+**}**
+
+**if (s1 \> 5) s1 = 0;**
+
+**if (s1 \< 0) s1 = 5;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(s1);**
+
+**second = s1 \* 10 + s2;**
+
+**break;**
+
+**case 7:**
+
+**if (!BC_flag) {**
+
+**s2 += 1;**
+
+**} else {**
+
+**s2 -= 1;**
+
+**}**
+
+**if (s2 \> 9) s2 = 0;**
+
+**if (s2 \< 0) s2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(s2);**
+
+**second = s1 \* 10 + s2;**
+
+**break;**
+
+**default: break;**
+
+**}**
+
+**}**
+
+**void changeAlarmOne() {**
+
+**switch (row_k) {**
+
+**case 4:**
+
+**if (!BC_flag) {**
+
+**alarm_h1 += 1;**
+
+**} else {**
+
+**alarm_h1 -= 1;**
+
+**}**
+
+**if (alarm_h1 \> 2) alarm_h1 = 0;**
+
+**if (alarm_h1 \< 0) alarm_h1 = 2;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_h1);**
+
+**alarmHour1 = alarm_h1 \* 10 + alarm_h2;**
+
+**break;**
+
+**case 5:**
+
+**if (!BC_flag) {**
+
+**alarm_h2 += 1;**
+
+**} else {**
+
+**alarm_h2 -= 1;**
+
+**}**
+
+**if (alarm_h2 \> 9) alarm_h2 = 0;**
+
+**if (alarm_h2 \< 0) alarm_h2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_h2);**
+
+**alarmHour1 = alarm_h1 \* 10 + alarm_h2;**
+
+**break;**
+
+**case 7:**
+
+**if (!BC_flag) {**
+
+**alarm_m1 += 1;**
+
+**} else {**
+
+**alarm_m1 -= 1;**
+
+**}**
+
+**if (alarm_m1 \> 5) alarm_m1 = 0;**
+
+**if (alarm_m1 \< 0) alarm_m1 = 5;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_m1);**
+
+**alarmMinute1 = alarm_m1 \* 10 + alarm_m2;**
+
+**break;**
+
+**case 8:**
+
+**if (!BC_flag) {**
+
+**alarm_m2 += 1;**
+
+**} else {**
+
+**alarm_m2 -= 1;**
+
+**}**
+
+**if (alarm_m2 \> 9) alarm_m2 = 0;**
+
+**if (alarm_m2 \< 0) alarm_m2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_m2);**
+
+**alarmMinute1 = alarm_m1 \* 10 + alarm_m2;**
+
+**break;**
+
+**case 10:**
+
+**if (!BC_flag) {**
+
+**alarm_s1 += 1;**
+
+**} else {**
+
+**alarm_s1 -= 1;**
+
+**}**
+
+**if (alarm_s1 \> 5) alarm_s1 = 0;**
+
+**if (alarm_s1 \< 0) alarm_s1 = 5;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_s1);**
+
+**alarmSecond1 = alarm_s1 \* 10 + alarm_s2;**
+
+**break;**
+
+**case 11:**
+
+**if (!BC_flag) {**
+
+**alarm_s2 += 1;**
+
+**} else {**
+
+**alarm_s2 -= 1;**
+
+**}**
+
+**if (alarm_s2 \> 9) alarm_s2 = 0;**
+
+**if (alarm_s2 \< 0) alarm_s2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_s2);**
+
+**alarmSecond1 = alarm_s1 \* 10 + alarm_s2;**
+
+**break;**
+
+**default: break;**
+
+**}**
+
+**clock.setA1Time(alarmDay, alarmHour1, alarmMinute1, alarmSecond1, alarmBits,
+alarmDy, alarmH12Flag, alarmPmFlag);**
+
+**}**
+
+**void changeAlarmTwo() {**
+
+**switch (row_k) {**
+
+**case 4:**
+
+**if (!BC_flag) {**
+
+**alarm_hh1 += 1;**
+
+**} else {**
+
+**alarm_hh1 -= 1;**
+
+**}**
+
+**if (alarm_hh1 \> 2) alarm_hh1 = 0;**
+
+**if (alarm_hh1 \< 0) alarm_hh1 = 2;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_hh1);**
+
+**alarmHour2 = alarm_hh1 \* 10 + alarm_hh2;**
+
+**break;**
+
+**case 5:**
+
+**if (!BC_flag) {**
+
+**alarm_hh2 += 1;**
+
+**} else {**
+
+**alarm_hh2 -= 1;**
+
+**}**
+
+**if (alarm_hh2 \> 9) alarm_hh2 = 0;**
+
+**if (alarm_hh2 \< 0) alarm_hh2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_hh2);**
+
+**alarmHour2 = alarm_hh1 \* 10 + alarm_hh2;**
+
+**break;**
+
+**case 7:**
+
+**if (!BC_flag) {**
+
+**alarm_mm1 += 1;**
+
+**} else {**
+
+**alarm_mm1 -= 1;**
+
+**}**
+
+**if (alarm_mm1 \> 5) alarm_mm1 = 0;**
+
+**if (alarm_mm1 \< 0) alarm_mm1 = 5;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_mm1);**
+
+**alarmMinute2 = alarm_mm1 \* 10 + alarm_mm2;**
+
+**break;**
+
+**case 8:**
+
+**if (!BC_flag) {**
+
+**alarm_mm2 += 1;**
+
+**} else {**
+
+**alarm_mm2 -= 1;**
+
+**}**
+
+**if (alarm_mm2 \> 9) alarm_mm2 = 0;**
+
+**if (alarm_mm2 \< 0) alarm_mm2 = 9;**
+
+**lcd.setCursor(row_k, col_k);**
+
+**lcd.print(alarm_mm2);**
+
+**alarmMinute2 = alarm_mm1 \* 10 + alarm_mm2;**
+
+**break;**
+
+**default: break;**
+
+**}**
+
+**clock.setA2Time(alarmDay, alarmHour2, alarmMinute2, alarmBits, alarmDy,
+alarmH12Flag, alarmPmFlag);**
+
+**}**
+
+**void alarm() {**
+
+**// Indicate whether an alarm went off**
+
+**if (clock.checkIfAlarm(1)) { //clock 1 detects alarm**
+
+**tone(buzzer, 2000);**
+
+**}**
+
+**if (clock.checkIfAlarm(2)) { //clock 2 detects alarm**
+
+**tone(buzzer, 1000);**
+
+**}**
+
+**}**
+
+**//set year, month, day, week, hour, minute and second of chip**
+
+**void setTime() {**
+
+**clock.setSecond(second); //set second**
+
+**clock.setMinute(minute); //set minute**
+
+**clock.setHour(hour); //set hour**
+
+**clock.setDoW(week); //set week**
+
+**clock.setDate(date); //set day**
+
+**clock.setMonth(month); //set month**
+
+**clock.setYear(year); //set year**
+
+**}**
+
+**//input, obtain the key vlaues**
+
+**void enter() {**
+
+**keypressed = myKeypad.getKey();**
+
+**if (keypressed != NO_KEY) {**
+
+**switch (keypressed) {**
+
+**case '1' : tone(buzzer, 262, 100); digitalWrite(LED1, HIGH); break;**
+
+**case '2' : tone(buzzer, 293, 100); digitalWrite(LED2, HIGH); break;**
+
+**case '3' : tone(buzzer, 329, 100); break;**
+
+**case '4' : tone(buzzer, 349, 100); break;**
+
+**case '5' : tone(buzzer, 392, 100); break;**
+
+**case '6' : tone(buzzer, 440, 100); break;**
+
+**case '7' : tone(buzzer, 494, 100); break;**
+
+**case '8' : tone(buzzer, 523, 100); break;**
+
+**case '9' : tone(buzzer, 586, 100); break;**
+
+**case '0' : tone(buzzer, 697, 100); digitalWrite(LED1, LOW); digitalWrite(LED2,
+LOW); break;**
+
+**case 'A' : tone(buzzer, 1045, 100); KA = 1; break;**
+
+**case 'B' : tone(buzzer, 879, 100); KB = 1; break;**
+
+**case 'C' : tone(buzzer, 987, 100); KC = 1; break;**
+
+**case 'D' : tone(buzzer, 1971, 100); KD = 1; break;**
+
+**case '\*' : tone(buzzer, 658, 100); KE = 1; break;**
+
+**case '\#' : tone(buzzer, 783, 100); KF = 1; break;**
+
+**default: break;**
+
+**}**
+
+**}**
+
+**}**
+
+### Test Result
+
+1.  **Set Calendar**
+
+Plug in power, turn on switch, the screen shows time as follows:
+
+![](media/f52c43c178aed1945dfb9af2c19f784e.png)，
+
+-   4\*4 membrane keypad controls the calendar
+    setting![](media/cc5e978cfa361f045eca66fdc1b74b9b.png)，
+
+-   Press key A to select year, month, day, week, hour, minute and second.
+
+-   Key B and C are used to adjust numbers, click \# to confirm and click D to
+    check and set alarm D.
+
+-   A: move cursor to set time and date
+
+-   B: plus 1
+
+-   C: deduct 1
+
+-   D: switch to alarm page
+
+-   \# : exit and confirm time setting
+
+1.  **Set Alarm Clock**
+
+![](media/6e6db74b6b5862fadf2c16eefac305f6.png)
+
+-   On alarm clock page, there are Alarm 1(on) and Alarm 2(off) .
+
+-   Press A and move cursor to set alarm 1 or alarm 2. Then press B to set time
+    page of alarm clock, press C to turn on/off alarm clock.
+
+-   Press A to move cursor when entering the alarm setting page, then select
+    hour, minute and second(note: you only set hour and minute for alarm 2),
+    next, press B to add 1 and press C to subtract 1.
+
+-   Click \# to return and press D to enter electronic scale page.
+
+-   You can turn off alarm when alarm is activated.
+
+1.  **Calculating Price**
+
+Press D to show c**alculating price,** as shown below:
+
+![](media/6eb81b7827b26d73ed29342c1e7b21d7.png)，P is unit price，M is total
+price
+
+The price value can be accurate to 0.1 yuan. The total price will be calculated
+automatically shown after the unit price is set.
+
+A: move cursor to set unit price by clicking 0-9
+
+B: clear up unit price value P
+
+C: switch to counting mode
+
+D: switch to calendar page
+
+\# : subtract tare and clear up
+
+\* ：calibration
+
+1.  **Counting**
+
+Press C key to enter the counting page, as shown below:
+
+![](media/813fb0b1daa1329569f74a80b9700c9e.png)
+
+First row：Weight value Second row: D means mass N=Quantity
+
+Key 0-9: set the mass value of D, which is accurate to 0.1g
+
+A: move cursor to set the mass of D
+
+B: clear up mass value of D
+
+C: switch to counting function
+
+D: switch to calendar page
+
+\#：clear up , subtract tare
+
+\* ：calibration
+
+**5.Calibration Method**
+
+On counting and price-calculating page, the screen will prompt to put on a 50g
+balance weight when key \* is pressed. Next, don’t take off balance weight until
+the calibration is successful(weighing page will appear if calibration is
+successful). Then screen will show **-0.050kg** if we take off balance weight.
+
+The screen will show **0.000kg** if you press **\#** key, which means tare
+subtraction is successful. (**the error can be within 1g)**
+
+# Trouble Shooting
+
+### Electronic scale doesn’t respond
+
+A：1. Ensure the battery capacity fully charged
+
+2\. Check if the wiring-up is correct
+
+### (2) USB port can’t recognized by computer
+
+A：1. Confirm that you’ve installed the driver of CP2102
+
+2\. Check if USB cable is good
+
+### (3) LCD1602 display shows error
+
+A: if LCD 1602 display module is connected well.
+
+### (4) LCD1602 display module doesn’t respond
+
+A：Check the wiring-up of weighing sensor and weighing module
+
+# 9. Resource
+
+[https://fs.keyestudio.com/KS03](https://fs.keyestudio.com/KS0470)45
+
+# 
